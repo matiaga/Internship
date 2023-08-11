@@ -1,35 +1,1216 @@
-,Hostel Name,URL,Distance from city centre,ratings,total reviews,overal reviews,price
-0,St Christopher's Village,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Village/London/502?from=2023-08-11&to=2023-08-14&guests=2,St Christopher's Village,8.1,-,Fabulous,"From
-$33"
-1,Clink261,https://www.hostelworld.com/pwa/hosteldetails.php/Clink261/London/516?from=2023-08-11&to=2023-08-14&guests=2,Clink261,8.2,-,Fabulous,"From
-$49"
-2,Wombat's City Hostel London,https://www.hostelworld.com/pwa/hosteldetails.php/Wombat's%20City%20Hostel%20London/London/88047?from=2023-08-11&to=2023-08-14&guests=2,Wombat's City Hostel London,9.0,(15139),Superb,"['-20%\nPrivates From\n$268\n$215', '-20%\nDorms From\n$72\n$57']"
-3,Onefam Notting Hill by Hostel One,https://www.hostelworld.com/pwa/hosteldetails.php/Onefam%20Notting%20Hill%20by%20Hostel%20One/London/291433?from=2023-08-11&to=2023-08-14&guests=2,Onefam Notting Hill by Hostel One,9.7,(2175),Superb,"['Privates From\n$214', 'Dorms From\n$70']"
-4,St Christopher's Village,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Village/London/502?from=2023-08-11&to=2023-08-14&guests=2,St Christopher's Village,8.1,(12298),Fabulous,"['No Privates Available', '-10%\nDorms From\n$37\n$33']"
-5,Generator London,https://www.hostelworld.com/pwa/hosteldetails.php/Generator%20London/London/510?from=2023-08-11&to=2023-08-14&guests=2,Generator London,7.6,(7634),Very Good,"['Privates From\n$166', 'Dorms From\n$44']"
-6,NX London Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/NX%20London%20Hostel/London/15204?from=2023-08-11&to=2023-08-14&guests=2,NX London Hostel,8.2,(2025),Fabulous,"['No Privates Available', '-24%\nDorms From\n$49\n$37']"
-7,Urbany Hostel London,https://www.hostelworld.com/pwa/hosteldetails.php/Urbany%20Hostel%20London/London/303427?from=2023-08-11&to=2023-08-14&guests=2,Urbany Hostel London,9.5,(850),Superb,"['Privates From\n$198', 'Dorms From\n$53']"
-8,Astor Hyde Park,https://www.hostelworld.com/pwa/hosteldetails.php/Astor%20Hyde%20Park/London/25678?from=2023-08-11&to=2023-08-14&guests=2,Astor Hyde Park,8.3,(12135),Fabulous,"['No Privates Available', 'Dorms From\n$34']"
-9,Safestay London Elephant & Castle,https://www.hostelworld.com/pwa/hosteldetails.php/Safestay%20London%20Elephant%20&%20Castle/London/55551?from=2023-08-11&to=2023-08-14&guests=2,Safestay London Elephant & Castle,7.2,(5040),Very Good,"['No Privates Available', 'Dorms From\n$33']"
-10,Phoenix Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/Phoenix%20Hostel/London/48221?from=2023-08-11&to=2023-08-14&guests=2,Phoenix Hostel,7.9,(4316),Very Good,"['No Privates Available', '-5%\nDorms From\n$32\n$30']"
-11,Safestay London Kensington Holland Park,https://www.hostelworld.com/pwa/hosteldetails.php/Safestay%20London%20Kensington%20Holland%20Park/London/93920?from=2023-08-11&to=2023-08-14&guests=2,Safestay London Kensington Holland Park,7.0,(1606),Very Good,"['No Privates Available', 'Dorms From\n$27']"
-12,Clink261,https://www.hostelworld.com/pwa/hosteldetails.php/Clink261/London/516?from=2023-08-11&to=2023-08-14&guests=2,Clink261,8.2,(348),Fabulous,"['No Privates Available', 'Dorms From\n$49']"
-13,Astor Museum Inn,https://www.hostelworld.com/pwa/hosteldetails.php/Astor%20Museum%20Inn/London/520?from=2023-08-11&to=2023-08-14&guests=2,Astor Museum Inn,8.2,(9298),Fabulous,"['No Privates Available', 'Dorms From\n$33']"
-14,Palmers Lodge - Swiss Cottage,https://www.hostelworld.com/pwa/hosteldetails.php/Palmers%20Lodge%20-%20Swiss%20Cottage/London/14348?from=2023-08-11&to=2023-08-14&guests=2,Palmers Lodge - Swiss Cottage,8.7,(15660),Fabulous,"['-26%\nPrivates From\n$2,768\n$2,048', '-26%\nDorms From\n$925\n$685']"
-15,No.8 Willesden Hostel London,https://www.hostelworld.com/pwa/hosteldetails.php/No.8%20Willesden%20Hostel%20London/London/18420?from=2023-08-11&to=2023-08-14&guests=2,No.8 Willesden Hostel London,6.5,(5056),Good,"['No Privates Available', 'Dorms From\n$22']"
-16,London Backpackers,https://www.hostelworld.com/pwa/hosteldetails.php/London%20Backpackers/London/527?from=2023-08-11&to=2023-08-14&guests=2,London Backpackers,7.6,(4495),Very Good,"['No Privates Available', 'Dorms From\n$32']"
-17,No.8 Seven Sisters,https://www.hostelworld.com/pwa/hosteldetails.php/No.8%20Seven%20Sisters/London/91108?from=2023-08-11&to=2023-08-14&guests=2,No.8 Seven Sisters,5.2,(4040),-,"['No Privates Available', 'Dorms From\n$21']"
-18,Queen Elizabeth Chelsea,https://www.hostelworld.com/pwa/hosteldetails.php/Queen%20Elizabeth%20Chelsea/London/50443?from=2023-08-11&to=2023-08-14&guests=2,Queen Elizabeth Chelsea,7.3,(3535),Very Good,"['No Privates Available', 'Dorms From\n$37']"
-19,Barmy Badger Backpackers,https://www.hostelworld.com/pwa/hosteldetails.php/Barmy%20Badger%20Backpackers/London/64746?from=2023-08-11&to=2023-08-14&guests=2,Barmy Badger Backpackers,9.0,(1955),Superb,"['Privates From\n$145', 'Dorms From\n$50']"
-20,St Christopher's Inn - London Bridge,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Inn%20-%20London%20Bridge/London/503?from=2023-08-11&to=2023-08-14&guests=2,St Christopher's Inn - London Bridge,7.8,(3528),Very Good,"['No Privates Available', '-10%\nDorms From\n$37\n$33']"
-21,Saint James Backpackers,https://www.hostelworld.com/pwa/hosteldetails.php/Saint%20James%20Backpackers/London/70909?from=2023-08-11&to=2023-08-14&guests=2,Saint James Backpackers,7.7,(1909),Very Good,"['No Privates Available', 'Dorms From\n$51']"
-22,Astor Victoria,https://www.hostelworld.com/pwa/hosteldetails.php/Astor%20Victoria/London/524?from=2023-08-11&to=2023-08-14&guests=2,Astor Victoria,7.1,(14999),Very Good,"['No Privates Available', 'Dorms From\n$29']"
-23,St Christopher's Hammersmith,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Hammersmith/London/20976?from=2023-08-11&to=2023-08-14&guests=2,St Christopher's Hammersmith,7.4,(4273),Very Good,"['No Privates Available', '-10%\nDorms From\n$30\n$27']"
-24,St Christopher's Greenwich,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Greenwich/London/501?from=2023-08-11&to=2023-08-14&guests=2,St Christopher's Greenwich,7.8,(3373),Very Good,"['No Privates Available', '-10%\nDorms From\n$28\n$25']"
-25,St Christopher's Camden,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Camden/London/505?from=2023-08-11&to=2023-08-14&guests=2,St Christopher's Camden,7.1,(4067),Very Good,"['No Privates Available', '-10%\nDorms From\n$33\n$30']"
-26,"PubLove @ The Steam Engine, Waterloo","https://www.hostelworld.com/pwa/hosteldetails.php/PubLove%20@%20The%20Steam%20Engine,%20Waterloo/London/29389?from=2023-08-11&to=2023-08-14&guests=2","PubLove @ The Steam Engine, Waterloo",8.0,(410),Fabulous,"['No Privates Available', 'Dorms From\n$48']"
-27,Bell House Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/Bell%20House%20Hostel/London/315821?from=2023-08-11&to=2023-08-14&guests=2,Bell House Hostel,7.6,(80),Very Good,"['No Privates Available', 'Dorms From\n$35']"
-28,St Christopher's Shepherds Bush,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Shepherds%20Bush/London/506?from=2023-08-11&to=2023-08-14&guests=2,St Christopher's Shepherds Bush,7.1,(785),Very Good,"['No Privates Available', '-10%\nDorms From\n$29\n$26']"
-29,Kabannas London St Pancras,https://www.hostelworld.com/pwa/hosteldetails.php/Kabannas%20London%20St%20Pancras/London/7010?from=2023-08-11&to=2023-08-14&guests=2,Kabannas London St Pancras,9.1,(2872),Superb,"['No Privates Available', 'Dorms From\n$44']"
-30,Selina Camden,https://www.hostelworld.com/pwa/hosteldetails.php/Selina%20Camden/London/310274?from=2023-08-11&to=2023-08-14&guests=2,Selina Camden,8.7,(54),Fabulous,"['Privates From\n$198', 'No Dorms Available']"
-31,YHA London St Pauls,https://www.hostelworld.com/pwa/hosteldetails.php/YHA%20London%20St%20Pauls/London/6977?from=2023-08-11&to=2023-08-14&guests=2,YHA London St Pauls,8.8,(2089),Fabulous,"['Privates From\n$178', 'No Dorms Available']"
+,Hostel Name,URL,Distance from city centre,ratings,total reviews,overal reviews,Description,Facilities,Privates From Price,Dorms From Price
+0,St Christopher's Village,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Village/London/502?from=2023-08-12&to=2023-08-15&guests=2,-,8.1,-,Fabulous,"St Christopher's Inn at The Village in London Bridge is the UK's first capsule hostel. Its brand new rooms have been specially designed for our guests to get the best night sleep possible before they wake up in amongst one of London's most vibrant areas. 
+
+Voted as one of the best party hostels in the world, our multi-award winning hostel offers guests Japanese-style capsule beds with USB ports, cool mood lighting and curtains for privacy. We even have new private rooms with one having an awesome view of the Shard right outside! There is a continental breakfast available every morning for just £5 a day which can be purchased at reception on arrival.
+
+Step out the door and you'll be just a short walk away from the London Eye, Tower Bridge and the oldest food market in the city, Borough Market. We're also only a two minute walk from TWO tube stations so getting anywhere in London couldn't be easier. 
+
+Party into the night in our hostel party bar Belushi's, head down to the Dugout to watch live sports and indulge in our legendary burgers with a discount for all our guests.
+
+*Please note that we require an in date government approved - drivers license, passport or national ID card at check-in.
+
+**Guests under the age of 18 must stay in a private room with guardians. They cannot share in general dormitory rooms with people who are not part of their own group or family. Legal guardians must be over 21. Under-18s are not allowed in the bars or pubs.
+
+***The maximum stay policy is 7 days
+
+****Please note: non-refundable reservations will be fully charged at the time of booking.","['Linen Included Free WiFi Free Internet Access', 'Security Lockers Common Room Elevator Breakfast Not Included Air Conditioning Adaptors Book Exchange Hot Showers Dryer Reading Light Hair Dryers For Hire Hair Dryers Iron / Ironing Board Microwave Washing Machine Towels Not Included Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception 24 Hour Security Housekeeping Late check-out', 'Restaurant Bar Meals Available Vending Machines Tea & Coffee Making Facilities', 'Nightclub Board Games Games Room Wi-Fi']",32,-
+1,Wombat's City Hostel London,https://www.hostelworld.com/pwa/hosteldetails.php/Wombat's%20City%20Hostel%20London/London/88047?from=2023-08-12&to=2023-08-15&guests=2,3.6km,9.0,15144,Superb,"A safe haven in the middle of the metropolis: We took a traditional brick building with roots dating back to the 1800s and set a new standard for hostel life in the UK.
+What was once sailors' accommodation is now a hostel that caters for all the needs of the modern traveller. With great attention to detail, we have created a hostel in London that celebrates the heritage of our historic building.
+The old oak that once formed part of sturdy ships and churches is now immortalised in our furnishings throughout the house. The beers you drink here will be served on a bar made from 500 year old wood!
+
+Our Wombat's City Hostel is located in the London Borough of Tower Hamlets, right next to the famous Tower Bridge and Tower of London, charming markets, authentic pubs and many other places of historical interest.
+A short walk will take you to trendy Shoreditch with its vibrant street art, the lively nightlife of Hoxton Square and Old Street and finally Brick Lane, which has become one of the most popular spots.
+All other London attractions are easily accessible by public transport: Aldgate East and Tower Bridge underground and DLR stations are just a stone's throw away. 
+
+After a long and exciting day in London, our hostel awaits you with a cosy courtyard, a spacious lobby with our own Wombat's Cafe (exclusive Wombat's Roast included) and womBAR. Here you can relax and enjoy our always unexpected offers.
+All rooms are equipped with en-suite bathroom and private lockers. 
+
+Includes:
+- Bed linen.
+- WiFi.
+- Our own Wombat's city maps.
+- Wombat's Café.
+- The womBAR for endless parties.
+- A guest kitchen open to all who want to satisfy their own culinary needs.
+- 24/7 reception.
+- Secure luggage storage.
+- Rental items (umbrellas, hairdryers, adaptors: everything a traveller could need).
+- Coin-operated laundry facilities (washing and drying), so you can revitalise your clothes!
+
+Our famous Tasty Brekkie buffet guarantees you enough energy for your exciting day in London. You can buy breakfast for an economical price at reception.
+
+(Minimum age 18 years).
+
+NON-REFUNDABLE RESERVATIONS:
+* Full payment is required at the time of booking and is non-refundable.
+* If you leave early, cancel or do not honour this booking, you will not be refunded.
+* Any extension of this stay requires a new booking for the additional dates, subject to availability and current rates.
+
+In the event of invalid credit card details, you will be contacted by our team. You will have 48 hours to provide valid credit card details, otherwise we reserve the right to cancel the booking.","['Linen Included Free City Maps Free WiFi Free Internet Access Free City Tour', 'Wheelchair Friendly Security Lockers Key Card Access Common Room Elevator Bicycle Parking BBQ Breakfast Not Included Meeting Rooms Adaptors Book Exchange Hot Showers Self-Catering Facilities Dishwasher Cooker Fridge/Freezer Utensils Dryer Outdoor Terrace Reading Light Hair Dryers For Hire Iron / Ironing Board Safe Deposit Box Microwave Washing Machine Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage Fax Service 24 Hour Reception ATM Housekeeping Internet café Late check-out', 'Bar Meals Available Vending Machines Cafe Tea & Coffee Making Facilities', 'Board Games Pool Table Foosball Wi-Fi']",182,46
+2,Onefam Notting Hill by Hostel One,https://www.hostelworld.com/pwa/hosteldetails.php/Onefam%20Notting%20Hill%20by%20Hostel%20One/London/291433?from=2023-08-12&to=2023-08-15&guests=2,5.5km,9.7,2178,Superb,"The perfect place for solo travelers to connect, explore and party! Join the Onefam Family and let us show you the beautiful city of London!
+
+What really makes our hostel unique and what has helped us win HostelWorld awards year after year, are our amazing team and incredibly social atmosphere.
+Our staff are travelers just like you, but we are not just here to party. We will cook you dinner, take you on daytime adventures, and share our expert knowledge of the city.
+
+If you still need more convincing, our location is in the absolute heart of Notting Hill (surely you have seen the film!), one of London's most beautiful neighborhoods. We are walking distance from many major tourist attractions such as Portobello Market, Hyde Park & Kensington Palace!
+
+- WHY US? 
+Social but responsible.
+Day and night, we have free activities for our Onefam guests. At Onefam you arrive as a solo traveler and you leave with a family.
+
+- OUR FACILITIES
+Sleep well, feel well & make friends.
+
+. Fully equipped kitchen 24/7 access.
+. Terrace area.
+. Common areas all designed for different moods. To relax, to work or to party.
+. Laundry facilities to keep you smelling fresh.
+. Personal lockers, outlets and light in all rooms.
+. No curfew, so you can come and go 24 hours per day as you please.
+
+We are currently following all procedural advice from local governments and taking every necessary measure to ensure your safety, comfort and happiness.
+. We are up to speed with local government guidelines, advice from WHO and the CDC.
+. Deep cleaning throughout our hostels has been increased.
+. We offer sanitization in all common areas and public spaces.
+
+- CANCELLATION POLICY 
+This property has a 2 day cancellation policy. Failure to cancel within this time will result in a cancellation charge equal to the first night of your stay.
+
+Non-refundable rates: If your booking is non-refundable. If you choose to cancel your booking, or in the case of a no-show, you will still be charged the full cost of your booking.
+
+- POLICIES & CONDITIONS
+Check-in from 3:30 PM to 11:30 PM. For late check-in, please email the hostel in advance. 
+Check-out at 11 AM 
+
+Age Limit 
+We have an age limit of 18 - 36 years old. If you are outside of this age range upon arrival to the hostel, we have the right to cancel your booking without refund of your deposit, as well as charging the applicable cancellation fee.
+
+We look forward to greeting you in London!","['Linen Included Free WiFi Free Internet Access', 'Breakfast Not Included Hot Showers Self-Catering Facilities Flexible NRR', 'Luggage Storage', 'Tea & Coffee Making Facilities']",173,89
+3,St Christopher's Village,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Village/London/502?from=2023-08-12&to=2023-08-15&guests=2,1.8km,8.1,12304,Fabulous,"St Christopher's Inn at The Village in London Bridge is the UK's first capsule hostel. Its brand new rooms have been specially designed for our guests to get the best night sleep possible before they wake up in amongst one of London's most vibrant areas. 
+
+Voted as one of the best party hostels in the world, our multi-award winning hostel offers guests Japanese-style capsule beds with USB ports, cool mood lighting and curtains for privacy. We even have new private rooms with one having an awesome view of the Shard right outside! There is a continental breakfast available every morning for just £5 a day which can be purchased at reception on arrival.
+
+Step out the door and you'll be just a short walk away from the London Eye, Tower Bridge and the oldest food market in the city, Borough Market. We're also only a two minute walk from TWO tube stations so getting anywhere in London couldn't be easier. 
+
+Party into the night in our hostel party bar Belushi's, head down to the Dugout to watch live sports and indulge in our legendary burgers with a discount for all our guests.
+
+*Please note that we require an in date government approved - drivers license, passport or national ID card at check-in.
+
+**Guests under the age of 18 must stay in a private room with guardians. They cannot share in general dormitory rooms with people who are not part of their own group or family. Legal guardians must be over 21. Under-18s are not allowed in the bars or pubs.
+
+***The maximum stay policy is 7 days
+
+****Please note: non-refundable reservations will be fully charged at the time of booking.","['Linen Included Free WiFi Free Internet Access', 'Security Lockers Common Room Elevator Breakfast Not Included Air Conditioning Adaptors Book Exchange Hot Showers Dryer Reading Light Hair Dryers For Hire Hair Dryers Iron / Ironing Board Microwave Washing Machine Towels Not Included Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception 24 Hour Security Housekeeping Late check-out', 'Restaurant Bar Meals Available Vending Machines Tea & Coffee Making Facilities', 'Nightclub Board Games Games Room Wi-Fi']",-,32
+4,Generator London,https://www.hostelworld.com/pwa/hosteldetails.php/Generator%20London/London/510?from=2023-08-12&to=2023-08-15&guests=2,-,7.6,7637,Very Good,"Generator London is a design hotel-hostel located in Russell Square in the heart of central London, a short stroll to Covent Garden, Regents Park and trendy King's Cross. Guests can choose from shared dorms to private rooms, offering something for everyone. Complete with 24-hour reception, free wifi, cafe and bar Generator is a fun and affordable choice in London.
+
+Generator London was the very first Generator and you'll find it in the area of Russell Square in the heart of the West End. 
+
+It's the ideal spot to enjoy London from, everything you need to see is minutes away by tube. You'll never run out of things to do in the UK's capital. You just have to decide where to start and we can help you with that. When you have seen and done it all for the day head back to Generator and unwind. 
+
+It's a destination in its own right and a great place to socialise and reflect on your experiences of the day. Head to the bar and chill out areas to get yourself a well deserved drink or two. It's lively, friendly and un-missable. We've also got great beds for sleepy heads and of course you'll be enjoying London life in the most authentic surroundings. 
+
+Choose from a great selection of rooms, from Dorms, to Quads, to Private rooms with innovative mod cons. Fast and free Wi-Fi is all yours too. To get the most out of your stay visit the travel shop and our city experts will help you devise an itinerary that will take you to all the hidden treasures this dynamic city has to offer. You'll have to stay longer to fit it all in but you'll not need convincing of that. We'll see you there soon.","['Linen Included Free City Maps Free WiFi Free Internet Access', 'Wheelchair Friendly Security Lockers Key Card Access Common Room Elevator Bicycle Parking Breakfast Not Included Meeting Rooms Hot Showers Reading Light Safe Deposit Box Card Phones Towels Not Included', 'Internet access Laundry Facilities Airport Transfers Bicycle Hire Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk ATM Shuttle Bus 24 Hour Security Housekeeping Express check-in / out Late check-out', 'Restaurant Bar Meals Available Vending Machines Cafe', 'Nightclub Board Games Games Room Pool Table Foosball Wi-Fi']",138,40
+5,NX London Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/NX%20London%20Hostel/London/15204?from=2023-08-12&to=2023-08-15&guests=2,6.1km,8.2,2024,Fabulous,"Welcome to NX London Hostel!
+
+PLEASE READ INFORMATION BELOW IN FULL
+
+NX London offers Budget accommodation close to a station and a 24hrs service bus stop. We're among the cheapest hostels in London that offer you FREE linen, FREE Wi-fi and FREE breakfast. We strive to offer value for money but LET'S BE REAL, don't come to us with expectations of a boutique Hostel or an affordable/luxury Hotel. 
+
+We're located close to New Cross Gate or New Cross Tube/ Train lines with easy access to London Bridge or connection to the Jubilee Line. We are also a short bus ride (15 minutes) away to the O2, if you are coming to London for a concert or event.
+
+We offer a variety of rooms, including small dormitory rooms and private rooms for Individuals and small/medium groups. Children under 6 years of age are not allowed under any circumstances.
+
+FACILITIES Inc. :-
+Reception is open 4:00pm to 1:00am (please DO NOT try to arrive prior to this hours unless arranged in advance)
+Self Catering Kitchens.
+Common Room with Digital TV.
+Free Wi-Fi 
+Secure Lockers (Chargeable £2/day)
+Free ear plugs (For light sleepers)
+Complimentary continental breakfast
+Early check-in (subject to availability) starts at 1:00pm and needs to be arranged and paid in advance with surcharge of £10 per person
+Late check-in (1:00am-3:00am) needs to be arranged and paid in advance with surcharge of £10 per reservation
+Late check-out (subject to availability) up to 3:00pm and needs to be arranged and paid in advance with surcharge of £15 per person or a full night stay if not pre-arranged the night before. 
+
+All of our reservations are NON-REFUNDABLE regardless of circumstances. This includes, but is not limited to, cancellations made by the guest, changes in travel plans, bonafide errors, medical emergencies, bereavement or any other reasons for not being able to stay at the property. By making a reservation, you agreed to this NON-REFUNDABLE policy and acknowledged that you shall not be entitled to receive a refund for any reason. We kindly ask all of our guests to consider this policy before making a booking and ensure that their travel plans align with the hostel's terms and conditions.
+
+However, if you need to cancel before your arrival day, you can request a partial courtesy voucher to use in the future at the Manager's discretion.
+
+The Pub next door to the hostel often features live music / DJs. The bar has a pool table and shows all major sports events live. Please note that, since this is a well known live music venue, things can get noisy on the Hostel's lower levels. If that's a concern please request ear plugs (provided free or charge) or an upper floor room upon reserving (subject to availability).
+
+Whether you are coming to London to visit the sights, study or work, we look forward to welcoming you to the NX London Hostel.
+
+Free 'On Street' Parking is available in close proximity to the Hostel. 
+ 
+ADDITIONAL INFORMATION
+*We do not accept customers under 18 years old and over 65 years old unless they are part of a group staying in a private room. Children under the age of 6 are not allowed under any circumstances. We reserve the right to refuse your accommodation at any stage according to the manager discretion. *
+
+*KEEP YOUR EXPECTATIONS REALISTIC! Our Standards are in line with the accommodation type we offer (BUDGET HOSTEL). The NX London is not a Hotel, the shared nature of our dormitory rooms might occasionally result into clutter. Bathrooms are located in the hallways and partaken with other guests. In order to maintain our prices low, we kept ""on location amenities"" to a minimum: There are no toiletries, air conditioning and/or a mini-bar in the rooms. We feature a mix of long term and leisure guests, this gives the ambience a uniquely quirky character, as a consequence it would be impossible to meet everybody's taste. Discriminatory comments or behaviour won't be tolerated.
+* Our 10 bed dorm can host up to 10 guests! If you're not comfortable sharing the space with that many people (and their belongings) please consider booking a different dorm. 
+* The hostel is primarily designed for adults and we expect our guests to act in a responsible and respectful manner at all times.
+* Upon reserving, you agree and acknowledge that our staff is trained to enforce our policies and procedures in a firm and assertive manner, holding everybody to a high standard of behaviour and with zero-tolerance policy for any breaches. If they instruct you to follow a particular rule or procedure, we kindly request that you comply with their directions. We ask that guests understand that repeated breaches of policy can put a strain on our staff. 
+* Being uncomfortable with a high level of enforcement or the manner in which our staff members communicate shall not constitute grounds for a complain.
+
+*Reception is ONLY open 4:00pm to 1:00am. 
+*Property is not wheelchair accessible*
+*All reservations must be PREPAID the day of booking and are NON REFUNDABLE. 
+*Unpaid reservations WILL BE SUBJECT TO AVAILABILITY AND MIGHT INCUR A 20%-40% SURCHARGE if they're not fully paid upon reserving. 
+*Groups of 9 guests or more need to send group request. 
+*The check-in time is from 4:00pm-1:00am. Guests arriving between 1:00am-3:00am need to email at least 24hrs in advance to confirm their reservation, process late check in payment and fill up check in form online to receive code, otherwise will be considered a no show and subject to availability and no show fees. If you fail to pre-arrange late check in or arrive by 3:00am the reservation will be considered a no show with applicable charges.
+
+No-Shows and Early check-outs will always result into a full (100%) charge and shall never constitute basis for a monetary refund regardless of circumstances. A transferable courtesy credit voucher, to be redeemed at our property might be offered at the Manager's discretion.
+
+We DO require a valid ID for all arrivals including UK/EU residents. Expired ones or without a clear or damaged photo are not valid to check-in.
+A refundable £10.00 Key Deposit shall be required upon arrival.
+Should loss of any key reasonably require a locksmith to be called and/or locksmith services to be carried out, guests shall be liable for any locksmith's fees.
+Upon departure guests should use the express check-out box located by the entrance to drop their key sets, where the corresponding deposit would be refunded directly to the payment method on file for the booking. Those whom wish to check-out early, or retrieve their key deposit in cash, are invited to report to Reception before 1:00 AM the night prior to leaving.","['Free Breakfast Linen Included Towels Included Free WiFi', 'Security Lockers Common Room Hot Showers Self-Catering Facilities Fridge/Freezer Utensils Hair Dryers For Hire Hair Dryers Microwave Washing Machine', 'Internet access Laundry Facilities Towels for hire Housekeeping Express check-in / out Reception (limited hours)', 'Meals Available Tea & Coffee Making Facilities', 'Wi-Fi']",-,29
+6,Urbany Hostel London,https://www.hostelworld.com/pwa/hosteldetails.php/Urbany%20Hostel%20London/London/303427?from=2023-08-12&to=2023-08-15&guests=2,5.4km,9.5,851,Superb,"Welcome to Urbany Hostel London, our first international adventure! We offer you a perfect spot to explore the city, we are a social youth backpacker hostel, a place where you can make friends & feel at home.
+
+We are located in Notting Hill, a cosmopolitan and multicultural neighbourhood, in a typical Victorian terraced house built in the 1800s. From Urbany Hostel, you can easily walk to Portobello Market and Hyde Park, two of the most popular sites in London.
+
+Our staff members are just like our guests, friendly, sociable, international and incredibly helpful - They will make sure you know your way around the city.
+
+-Temporarily our reception hours have varied; to ensure someone will be here to welcome you, please ensure your arrival time is between 8 AM - 11 PM. Alternatively please let us know if you will be arriving outside these hours. 
+
+-Check in to rooms is from 3 PM - 11 PM
+-Check out before 11 AM
+
+FEEL THE URBANY VIBE:
+
+We have a variety of shared mixed dormitories, whilst also offering private rooms for those who prefer not to share.
+
+ALL guests must be between 18 - 40 YEARS. If you are outside of this age range upon arrival to the hostel, we have the right to cancel your booking without refund of your deposit, as well as charging the applicable cancellation fee.
+
+A physical VALID government issued ID (Passport, Driving license, and National identity cards ) is required to stay with us.
+
+Free high-speed Wi-Fi is available everywhere, even in your room.
+
+Luggage storage is also available for free if you arrive before check-in or are leaving after check-out (only for the day).
+
+We offer: towel rental (2 GBP) and basic laundry service wash/dry (7 GBP).
+
+24/7 CCTV throughout the whole building for added security.
+
+We do require a £10 CASH key deposit (which you will receive back upon return). Ours key's have 24/7 access so there is no curfew - you can get in and out as much as you like.
+
+It's also important to note that there are 4 floors in our hostel and there is no elevator.
+
+We can't wait to welcome you to our wonderful home and enjoy this amazing city!","['Linen Included Free WiFi', 'Security Lockers Microwave Follows Covid-19 sanitation guidance', 'Luggage Storage 24 Hour Reception', 'Tea & Coffee Making Facilities', 'Wi-Fi']",178,48
+7,Safestay London Elephant & Castle,https://www.hostelworld.com/pwa/hosteldetails.php/Safestay%20London%20Elephant%20&%20Castle/London/55551?from=2023-08-12&to=2023-08-15&guests=2,1.7km,7.3,5041,Very Good,"Safestay at Elephant & Castle is ideal if you are looking for budget accommodation in London, whether you see the sights in this amazing city or travelling with your family. If Tate Modern, the National Theatre, The Imperial War Museum, the London Aquarium, the London Dungeon, a cricket match at the Kia Oval or clubbing at the world-famous Ministry of Sound are on your must-do list, Safestay London Elephant & Castle is perfectly located.
+
+Our beautiful 18th-century Georgian building is centrally located, close to London's mighty River Thames and the restaurants, bars and cafes the Southbank is famed for, along with the London Eye, Borough Market and Shakespeare's Globe Theatre. It's secure, stylish, comfortable and fun, with an illuminated garden for you to relax in.
+
+So if you're after budget accommodation in London, bringing a group of school children to study the sights or want something different from the usual options in London, why not try this fantastic hostel out for size.
+
+Close to all the big London tourist attractions, our staff will happily help you plan your visit and give you top tips on what is happening in London during your stay.
+
+See these London landmarks within 6 stops of the hostel using the Underground:
+. Oxford Street
+. Piccadilly Circus
+. Leicester Square
+. Covent Garden
+. Westminster Abbey
+. Big Ben & the Houses of Parliament
+. Buckingham Palace
+. St Paul's Cathedral
+. The Tower of London and Tower Bridge 
+
+FREE WI-FI
+Free across all areas
+
+BREAKFAST
+Enjoy our packed breakfast served between 7:00 am and 10:00 am for only GBP 8.00
+
+Travelling with children? Cots are available on request. Please contact the hostel in advance to arrange.
+Luggage storage subject to availability upon arrival and departure
+
+Attractions: We sell discounted and fast track entrance tickets to some of London's most famous sights and best kept secrets. Including the London Eye, Madame Tussauds, The Tower of London, Walking tours, Bike tours, boat trips, and many more.
+
+Hostel Activities: We organise fun stuff for you to do nearly every day of the week! Such as Free Walking tours, top-rated Pub Crawls, Group trips to famous West End Shows, Jet boating on the Thames","['Linen Included Free WiFi', 'Security Lockers Key Card Access Common Room Adaptors Hot Showers Cots Available Dryer Outdoor Terrace Reading Light Hair Dryers For Hire Iron / Ironing Board Washing Machine Towels Not Included Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception ATM 24 Hour Security Housekeeping Late check-out', 'Restaurant Bar Vending Machines Cafe', 'Pool Table Wi-Fi']",-,28
+8,Pickwick Hall,https://www.hostelworld.com/pwa/hosteldetails.php/Pickwick%20Hall/London/7502?from=2023-08-12&to=2023-08-15&guests=2,2.3km,8.7,2693,Fabulous,"Pickwick Hall provides accommodation for tourists, students and other people who require cheap, clean and attractive short or long-term lodging. We are situated in central London, in the famous area of Bloomsbury, where writers and artists have lived for centuries. Pickwick Hall is in the perfect location, about a four-minute walk from the British Museum and the University of London and about 10 minutes from the entertainment and shopping districts of the West End, Covent Garden, Soho, and China Town, but in a quiet street of Georgian town houses. 
+
+There is easy and direct access from Heathrow Airport by tube (straight to Holborn Station on the Piccadilly line) and train and coach connections to the other London airports and Eurostar train terminal. Choose either 'en-suite rooms' (with their own private bathroom) or the less expensive 'standard rooms' (with showers and toilets on the same floor shared with a limited number of other guests). 
+
+Whichever you choose, the room will be furnished with hotel-quality beds (no bunk beds), clothes storage, a table and chair, and a wash-hand basin. Bed linen and towels provided; continental breakfast and kitchen available to prepare your own meals. There is a sitting room with cable television and high-speed WiFi is available throughout Pickwick Hall. 
+
+Our staff is on hand to answer your queries and a high standard is maintained to ensure your stay with us is comfortable. 
+
+Pickwick Hall is a small hostel where you can expect personal attention and good accommodation at a reasonable price.","['Free Breakfast Linen Included Free Internet Access', 'Security Lockers Common Room Cable TV Hair Dryers For Hire Card Phones', 'Luggage Storage Fax Service Late check-out Reception (limited hours)']",165,-
+9,Safestay London Kensington Holland Park,https://www.hostelworld.com/pwa/hosteldetails.php/Safestay%20London%20Kensington%20Holland%20Park/London/93920?from=2023-08-12&to=2023-08-15&guests=2,5.8km,6.9,1606,Good,"Safestay Holland Park
+
+Safestay Holland Park is ideally located in the heart of London, nestled within one of the capital's most prestigious parks. This stunning hostel consists of 3 buildings, including the East Wing of the park's original Jacobean building, and surrounds our private courtyard garden.
+
+The property has been fully refurbished to the high standards for which Safestay is renowned. 
+
+The Grade 1 listed building is located on the edge of London's famous Holland Park (search for Holland walk and duchess of Bedford Walk on your maps) and will provide Safestay guests with the opportunity to stay in the heart of one of the capital's desirable neighborhoods. The property dates back to 1605 along with a 1950's extension and is situated in a huge garden within the middle of one of London's most beautiful parks.
+
+Historic, Jacobean splendor, in a great city location. Who says you can't have it all? This mansion in the middle of Holland Park was visited by Sir Walter Scott, Lord Byron, and Dickens. Today it offers large, comfortable rooms to you. 
+
+Three different houses with a range of standard & ensuite rooms as well as family rooms & private rooms for everyone!
+Pool room, breakfast room & restaurant as well as the garden, & the whole Park itself with its famous beautiful woodland trails, manicured lawns, the Kyoto Japanese Garden with its resident Coi, and a fantastic ice cream stand in the middle.
+Opened in 1952, Holland Park used to be a private estate belonging to the Earl of Holland. During the 19th century, the Holland House attracted high-profile visitors from various walks of life, from the politician, Lord Palmerston, to the poet, Lord Byron.
+
+Safestay Holland Park has excellent transport links and is within easy reach of The Natural History Museum, Holland Park Avenue, Notting Hill Gate, Portobello Market, Harrods, The Science Museum, Hyde Park, Westfield Shopping Centre, and Kensington Palace Gardens.
+
+Dormitory style and range in size from 2 beds upwards. They offer mixed accommodation. Clean fresh sheets are included in the price. Lockers are available in rooms. Padlocks available for sale
+
+Safestay Holland Park's Policies & Conditions:
+
+Cancellation policy: 24 hours before arrival. 
+Payment upon arrival by credit cards, debit cards. 
+This property may pre-authorize your card before arrival.
+
+Check-in from 15:00
+Check out before 10:00
+
+Taxes included.
+Breakfast not included - 6.00 GBP per person per day.
+Please note there is no guest kitchen facility to cook and corkage is applied at only GBP 1 per guest for outside food and soft drinks. No outside alcohol is allowed at all.
+
+General:
+24-hour Reception.
+No curfew.
+
+Bookings cannot be accepted from any person age 16 years or under unless they are accompanied by an adult (over 18) who is staying in the same dorm/room. Families with children aged 16 years and under are welcome, however, they must book and pay for all beds in order to make the room private (i.e. in the case of 4-bedded dorms or larger). 
+
+Alternatively, we have 2 Bedded and 3 Bedded Private rooms available, subject to availability. 
+
+WHAT3WORDS ADDRESS
+
+VOUCH.OPERA.MOONS
+
+Look out for the Peacocks!
+Show more","['Linen Included Free WiFi', 'Security Lockers Key Card Access Common Room Breakfast Not Included Adaptors Hot Showers Dryer Outdoor Terrace Reading Light Hair Dryers For Hire Hair Dryers Iron / Ironing Board Safe Deposit Box Card Phones Washing Machine Towels Not Included', 'Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception ATM 24 Hour Security Housekeeping', 'Bar Meals Available Vending Machines Cafe', 'Games Room Pool Table Wi-Fi']",-,25
+10,Astor Museum Inn,https://www.hostelworld.com/pwa/hosteldetails.php/Astor%20Museum%20Inn/London/520?from=2023-08-12&to=2023-08-15&guests=2,2.2km,8.2,9298,Fabulous,"With the British Museum literally on its doorstep, it is impossible to beat this hostel location! Located in the very heart of Central London you are a short walk from iconic attractions like Piccadilly Circus, Trafalgar Square and Covent Garden. 
+It doesn't matter if you are shopping down the legendary Oxford Street, watching a play in Leicester Squares world-famous theatre district, having dinner in China Town, drinks in Soho, or partying in the West End you are always a short walk home to a nice and quiet street in an amazing neighbourhood!
+
+The moment you walk through our doors you become part of our family and we want you to have an incredible experience! We want every detail - from our super clean bathrooms and comfortable pillows to our unforgettable social events - to be perfect, giving you a London adventure that is 10 out of 10!
+
+VALID government issued ID required to stay with us, and ALL guests must be between 18-40 YEARS
+ 
+At our amazing hostel you will have full access to:
+
+-Free Fast Wi-Fi throughout the building as well as Free PC Access
+-24-hour reception for anything you may need (including late check-in/early check-out)
+-CCTV in operation 24 hours a day
+-Storage Lockers available for your valuables £2 per locker, per day (max 14 days).
+-Luggage room is free to use on day of arrival! You can leave your items from £2.50 per bag on day of departure (£7.50 per bag for everyday thereafter). 
+-Laundry facilities available 24-hours. Hairdryers and ironing facilities free to use
+-Dining room and common area to enjoy a meal or meet fellow travellers
+-Beautiful lounge area with comfy sofas
+
+Reception hours
+-Check-out is between 8am and 10am. 
+-Check-in is available between 3pm and 10pm (please let us know your arrival time to ensure someone is there to greet you with a smile!)
+
+(A staff member is available 24 hours a day for emergencies, a number will be provided if you have any issues, or you can call the hostel number directly)
+
+Charity breakfast
+Breakfast is available every day from 8 am to 10 am for £3.50 PP. £1 will be donated to charity for every breakfast!
+
+Common Areas
+-Kitchen and common areas are all open! Whoop Whoop! (Kitchen and lounges will be shut at midnight and reopening at 8am).
+
+Helpful Extras (Hidden costs are a pain! If we can give it to you for free, we will, if we cannot do it as cheap possible!). 
+
+-Free City Maps 
+-Tourist Information, walking tours and advice on local attractions and transport (24hrs)
+-Daily events organized for our guests
+-Room key is a £5 cash deposit
+-Padlocks and Adaptors available for a fee at the reception
+-Discounts at local restaurants and coffee shops
+-Towels are available for hire at £3.50
+-Clean, crisp linen on your bed ready to sleep on!
+-Late Check-Out available to sleep in a little more until Midday (book in advance at reception)!
+-ATM (Cash Machine)
+
+Please note our basic room types allow you access to all our amazing facilities! However, the building is located a short walk (1 minute) away from the main building, but if you need anything there is a direct telephone which will connect you with our reception.
+
+Winner of No.1 Small Hostel Group Worldwide, and a Lifetime Achievement Award for excellence in the Hostel Industry. We thrive on ensuring every guest comes satisfied and if you have any problems along the way we are always there ready to help! For this and many other reasons staying at Astor Hostels is the top choice for anyone exploring London on a budget! 
+
+Reservations must be made for guests over the age of 18. Any reservations made for those under the minimum age will be cancelled and you will not receive a refund. The hostel organises daily events aimed at backpackers between the ages of 18-30, it is therefore suggested that guests under the age of 40 would enjoy the hostel the most.
+ 
+Proof of identification must be shown on arrival and can include a passport, driving license and national identity cards. We cannot accept paper driving licences, student, or employee IDs as proof of identity and failure to show proof or a copy upon arrival will result in the cancellation of a reservation without a refund. Get in touch with us for further clarification.
+ 
+When booking for 10 persons or more, different policies and additional supplements will apply.","['Linen Included Free City Maps Free WiFi', 'Security Lockers Key Card Access Common Room Adaptors Book Exchange Hot Showers Self-Catering Facilities Cable TV Outdoor Terrace Hair Dryers For Hire Safe Deposit Box Washing Machine Flexible NRR Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage Housekeeping', 'Vending Machines Tea & Coffee Making Facilities', 'PlayStation Board Games']",-,34
+11,No.8 Willesden Hostel London,https://www.hostelworld.com/pwa/hosteldetails.php/No.8%20Willesden%20Hostel%20London/London/18420?from=2023-08-12&to=2023-08-15&guests=2,-,6.5,5057,Good,"At No.8 we take pride in our Customer Service and ensure that all of our Guests get everything they want from their time in London. We cater for the Young & Young at Heart Backpacker 18-48 only, Photo IDs will be required on Check In. We have Live Entertainment on Weekends within our Traditional English Pub, along with the usual range of pub entertainment and banter!
+
+- Free High-Speed WiFi
+- Full Facility Kitchen, Dining Space & Outdoor Deck
+- Secure Storage Facilities & 24 Hr Key Card Access
+- Large Lounge - Pool Table, Chess Table, Couches, Satellite TV & Darts Board etc. 
+- Traditional English Pub & Beer Garden
+- Young & Young at Heart Backpackers 18-48 only. ID on Check-In Required.
+- Payment by Cash only on Check in (Cards not accepted)
+- £20 Key Deposit (Fully Refunded On Check-Out)
+- No refunds are made following Check-In
+- Reception is open from 9:30am-11:00pm.
+- Groups of 8 or less only. Facilities cannot cater for larger groups unfortunately.
+
+
+Check in: 12pm - 11pm
+PLEASE NOTE that Check In will NOT be possible outside these hours. If you are running late or will be arriving slightly outside our check in hours, please contact us to see if there is a possibility of us accommodating your arrival outside of check in hours.
+
+Whether it is your first time in London or you are a seasoned traveller, No.8 has everything you need (and a few extras) to ensure that your stay in London is definitely Enjoyable & Comfortable!","['Linen Included Free WiFi', 'Security Lockers Key Card Access Common Room Breakfast Not Included Adaptors Hot Showers Self-Catering Facilities Cooker Fridge/Freezer Utensils Cable TV Outdoor Terrace Iron / Ironing Board Microwave Towels Not Included Follows Covid-19 sanitation guidance', 'Luggage Storage 24 Hour Security Housekeeping Reception (limited hours)', 'Bar Tea & Coffee Making Facilities', 'Games Room Pool Table Wi-Fi']",-,16
+12,London Backpackers,https://www.hostelworld.com/pwa/hosteldetails.php/London%20Backpackers/London/527?from=2023-08-12&to=2023-08-15&guests=2,11.9km,7.6,4495,Very Good,"IMPORTANT NOTICE: 
+
+This hostel is for 18 - 35-year olds ONLY. 
+Check In is from 3 pm and Checkout is Before 10 am. Passport, Identity Card or Driver License is Required from all Guests. We accept cash in British Pounds and most cards. Please, note the reception is opened between 8am and 1am only. 
+
+'Your home away from home' 
+
+Looking for a great central London Hostel? Your search can come to rest to at London Backpackers Youth Hostel in Hendon. 
+We are moment from Hendon Central Underground station, minutes from the heart of London and easy access to nearby airports (detailed instructions of how to find the Hostel will be emailed to you once your Booking is made).
+
+We take pride of providing excellent hostel facilities for your stay, whether for a single night or several.
+For Group Bookings please contact the Hostel Directly.
+If you are looking for long term accommodation, email us for rooms and prices available for quarantining and long stay. 
+
+Our rates are truly inexpensive, but our hostel is jam-packed with amenities tailored for young, and young at heart, people looking for a comfort at a modest price with a friendly atmosphere.
+
+Bookings made on this or any website are Not Valid for Existing Guests. If you are and Existing Guest and make an Online Booking, your Booking will be honored but you will be charged the Full Nightly Rate.
+In the event of a NO SHOW or LATE CANCELLATION, Guests will be charged a Cancellation Fee Equal to the First Night of the Booking.
+
+WHAT YOU CAN EXPECT:
+
+Our facilities supply free linen, blankets, private rooms with towels, internet access, TV, literature, City Maps and UK Sim Cards, and a fully fitted kitchen for cooking (with Fridge/Freezers, Oven, Stoves, Microwave, Toaster and Kettle). You will not find another cheap London Youth Hostel that provide clean showers and toilets, plus hot water guaranteed 24h a day. For your convenience we also provide a laundry room with washer and dryer. Bunk Beds with Privacy Curtain, USB Charging Ports, Power Sockets, Reading Light and Locker. (Bring a Padlock or purchase from Reception). Sports Equipment for the nearby Hendon Park, just up the road with a large football field, tennis courts, basketball courts and it is a great place to get active during the day or to chill out with friends in the evening.
+
+You can also enjoy a Pool game in our brand-new basement, equipped with seats and TV for more comfort!
+
+We want your stay to be carefree and we ensure that by offering lockers and luggage room for your use in securing your property during your stay. The Hostel is covered by CCTV and there is 24hr Key Card Access with No Curfew.
+
+Moreover, you can find plenty of coffee shops and restaurants around the hostel and for every taste! 
+
+For your convenience you will find Tesco, Sainsbury's, and other international shops 2 min walk from the hostel. They are all opened until late at night, even on the Sunday. 
+
+We are a 10-minute walk away from Middlesex University as well as Brent Cross shopping centre. The Royal Air Force museum is right by the next underground station!
+
+NOTE: you must confirm your booking 24 hours prior to arrival by email to let us know you still want it.","['Linen Included Free City Maps Free WiFi Free Internet Access', 'Security Lockers Key Card Access Common Room Breakfast Not Included Adaptors Book Exchange Hot Showers Self-Catering Facilities Cooker Fridge/Freezer Utensils Dryer Cable TV Reading Light Hair Dryers For Hire Hair Dryers Iron / Ironing Board Safe Deposit Box Microwave Washing Machine Towels Not Included Flexible NRR Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage Tours/Travel Desk Postal Service 24 Hour Security Housekeeping Reception (limited hours)', 'Tea & Coffee Making Facilities', 'Board Games Games Room Pool Table Wi-Fi']",-,24
+13,No.8 Seven Sisters,https://www.hostelworld.com/pwa/hosteldetails.php/No.8%20Seven%20Sisters/London/91108?from=2023-08-12&to=2023-08-15&guests=2,-,5.2,4040,-,"For Great Facilities, Comfort & Affordability you can't go past No.8 Seven Sisters! We provide Excellent Service and ensure that all of our Guests get Everything they want from their time in London. We cater exclusively for the Young & Young at Heart Backpacker 18-48, Photo IDs are required on Check In, as we have Entertainment on Weekends and operate a Very 'Bustling' and Social Hostel.
+
+- Free WiFi
+- Full Facility Kitchen
+- Secure Storage Facilities & 24Hr Key Card Access
+- Pool Table & Darts Board
+- Satellite TV
+- Traditional English Pub & Beer Garden
+- Entertainment on Weekends!
+- Young & Young at Heart Backpackers 18-48 Years Old Only.
+- Payment by Cash only on Check in. (Credit cards not accepted)
+- £20 Key Deposit (Fully Refunded On Check-Out)
+- No refunds are made following Check-In. 
+- Groups of 8 or less only. Facilities cannot cater for larger groups unfortunately.
+
+Reception is open from 9:30am-11pm. Check in is from 12pm. PLEASE NOTE that Check In will NOT be possible outside these hours. If you are running late or will be arriving slightly outside our reception hours, please contact us to see if there is a possibility of us accommodating your arrival outside of opening hours.
+
+As guests arrive and depart at varying times and numbers, it is impossible for us to guarantee that all group bookings can be allocated in one room together. Nevertheless we always try to keep groups together.
+
+Whether it is your first time in London or you are a seasoned traveller, No.8 has everything you need (and a few extras) and will ensure that your stay in London is definitely Enjoyable & Comfortable!
+
+We look forward to Welcoming you at No.8 Seven Sisters!","['Linen Included Free WiFi', 'Security Lockers Key Card Access Common Room Bicycle Parking Breakfast Not Included Adaptors Hot Showers Self-Catering Facilities Cooker Fridge/Freezer Utensils Cable TV Outdoor Terrace Iron / Ironing Board Microwave Towels Not Included Follows Covid-19 sanitation guidance', 'Luggage Storage 24 Hour Security Housekeeping Reception (limited hours)', 'Bar Tea & Coffee Making Facilities', 'Games Room Pool Table Wi-Fi']",-,16
+14,Queen Elizabeth Chelsea,https://www.hostelworld.com/pwa/hosteldetails.php/Queen%20Elizabeth%20Chelsea/London/50443?from=2023-08-12&to=2023-08-15&guests=2,5.7km,7.3,3535,Very Good,"PLEASE NOTE WE ONLY ACCEPT GUESTS FROM THE AGE OF 18-40 with GOVERNMENT ISSUED PHOTO ID, such as driving licence, passport, national ID card. 
+Student cards and proof of age cards are not accepted. 
+
+The Queen Elizabeth Youth Hostel is located above a historic pub in the posh borough of Hammersmith and Fulham. Located conveniently between the Imperial Wharf Overground and the Fulham Broadway Tube Station, we are just a quick train ride away from London's hottest tourist attractions.
+
+Located less than 5 minutes from the River Thames and 10 minutes to Chelsea FC's home stadium, Stamford Bridge. This is a prime location for those looking for a peaceful and enjoyable stay. Not far you will find green spaces, great shopping and easy transport connections to Central London. We are also located just off King's Road, one of the most fashionable streets in the world.
+
+Facilities:
+Cheap, vegan-friendly breakfast buffet
+Linen Included 
+Free WiFi Internet
+No Lock Out
+No Curfew 
+Bar with cheap drinks for guests
+24/Hour Check-in/Check-out
+Secure Locker Storage
+Two-Week Maximum Stay
+
+-------------------------------------------------------------------------
+
+
+
+Check-in is from 15:00 to 00:00 -- if you arrive before 15:00 you can store your bag for FREE in our secure luggage room.
+Any check-in between 00:01 to 11:00 will be charged a £4 fee.
+
+Check-out is at 11:00 -- Luggage storage is available upon departure for a nominal fee.
+
+Due to UK alcohol licensing laws, you are not allowed to bring or consume outside alcohol on the premises. 
+
+Wi-Fi is available in nearly all of our rooms, depending on your Wi-Fi device. It is specifically not available in our 17-bed dorm. All of our rooms do have electrical points, enabling you to charge your electronic devices. 
+
+We can't wait to see you here at Queen Elizabeth!","['Linen Included Free City Maps Free WiFi Free Internet Access', 'Security Lockers Common Room Breakfast Not Included Adaptors Book Exchange Hot Showers Hair Dryers For Hire Hair Dryers Flexible NRR', 'Internet access Luggage Storage 24 Hour Reception Tours/Travel Desk 24 Hour Security Housekeeping', 'Bar', 'Board Games']",-,31
+15,Saint James Backpackers,https://www.hostelworld.com/pwa/hosteldetails.php/Saint%20James%20Backpackers/London/70909?from=2023-08-12&to=2023-08-15&guests=2,5.5km,7.7,1909,Very Good,"We are located in central London - just 5 minutes walk from the station. Rated one of the best hostels in London 2017 by the Telegraph newspaper, we offer free dinner & free breakfast everyday. Come stay with us and make new friends for life.
+
+Free high speed WiFi throughout, a huge garden patio with free gym, communal lounge with a 85-inch Ultra HD TV with cable, Netflix & PS4. Guests can also use the modern shared kitchen to cook their own meals.
+
+All dorms have contemporary designs. We also have many private rooms. 
+
+The hostel is 15 minutes walk from Natural History & Science Museums and Hyde Park. Madame Tussauds, Harrods and Buckingham Palace are also a 15-minute train ride away.
+
+
+
+The Reception is open 24/7 and the international staff will be there, happy to help you. 
+
+More reasons to stay at Saint James Backpackers? 
+- A 24-hour reception to make sure to be available for our guests at any time 
+- Massive living rooms with a large television, with options such as Sky TV, Netflix and a PlayStation 4 
+- USB Charging Points in every room 
+- An exclusive ladies-only dorm room and showers 
+- Massive patio garden including BBQ 
+- Outdoor gym
+- Hostel activities: movie and popcorn nights, sangria nights, board game competitions, screening sports events, holiday partiesÃ¢â'¬Â¦
+
+Note: 
+
+- There is a 48-hour cancellation policy on all reservations. Non-refundable reservations cannot be refunded. In case of a no show, the guest would be charged the whole amount of their stay 
+- A £10 key deposit is payable in cash at check-in, which is returned on return of the key at check-out. 
+- Check-in: 14.00/ Check out: 10.00 
+- Credit cards accepted 
+- Taxes included 
+- No smoking anywhere inside the building (but we do have a large patio garden where you can indulge) 
+- On the property lives one cat and one dog.
+- Card Payments must be authorised by chip and pin 
+- Minimum age to stay in the hostel is 5. 
+- Please note that there are limited spaces for dinner; you must sign up at reception each day before 16:00, signup is done on a first come first serve bases. If you cannot make it here in time please just call us and request to be put on the list. Management reserve the right to discontinue meals without notice","['Free Breakfast Linen Included Free City Maps Free WiFi Free Internet Access', 'Common Room BBQ Adaptors Hot Showers Self-Catering Facilities Cooker Fridge/Freezer Cable TV Outdoor Terrace Jobs Board Hair Dryers For Hire Hair Dryers Microwave Towels Not Included Follows Covid-19 sanitation guidance', 'Internet access Towels for hire Luggage Storage 24 Hour Reception 24 Hour Security Housekeeping Reception (limited hours)', 'Meals Available Vending Machines Cafe Tea & Coffee Making Facilities', ""PlayStation DVD's Board Games Wi-Fi""]",115,47
+16,Astor Victoria,https://www.hostelworld.com/pwa/hosteldetails.php/Astor%20Victoria/London/524?from=2023-08-12&to=2023-08-15&guests=2,1.8km,7.0,14999,Very Good,"With Victoria Station and Buckingham Palace a few minutes walk away, it is hard to beat to this location! Amazing 24-hour transport links to attractions, parties, airports, coaches (to the rest of the UK/Europe), and almost anywhere! Astor Victoria is the dream place for a base in London. 
+The excellent local markets, restaurants, pubs, vintage stores, coffee shops and galleries, all within a 15 minutes walk of Big Ben, will make you feel like a true Londoner! This, combined with staff who love the city and want to share all their knowledge with you, means there is no better place to stay in Central London!
+
+The moment you walk through our doors you become part of our family and we want you to have an incredible experience! We want every detail - from our super clean bathrooms and comfortable pillows to our unforgettable social events - to be perfect, giving you a London adventure that is 10 out of 10!
+
+VALID government issued ID required to stay with us, and ALL guests must be between 18-40 YEARS
+ 
+At our amazing hostel you will have full access to:
+
+- Free Fast Wi-Fi throughout the building as well as Free PC Access
+- 24-hour reception for anything you may need (including late check-in/early check-out)
+- CCTV in operation 24 hours a day
+- Storage Lockers available for your valuables £2 per locker, per day (max 14 days).
+- Luggage room is free to use on day of arrival! You can leave your items from GBP 2.50 per bag on day of departure (GBP 7.50 per bag for everyday thereafter). 
+- Laundry facilities available 24-hours. Hairdryers and ironing facilities free to use
+- Dining room and common area to enjoy a meal or meet fellow travellers
+- Beautiful lounge area with comfy sofas and enormous projector screen for movies and sports! 
+
+Reception hours
+- Check-out is between 8am and 10am. 
+- Check-in is available between 3pm and 10pm (please let us know your arrival time to ensure someone is there to greet you with a smile!)
+
+(A staff member is available 24 hours a day for emergencies, a number will be provided if you have any issues, or you can call the hostel number directly).
+
+Charity breakfast
+Breakfast is available every day from 8 am to 10 am for £3.50 PP. £1 will be donated to charity for every breakfast!
+
+Common Areas
+- Kitchen and common areas are all open! Whoop Whoop! (Kitchen and lounges will be shut at midnight and reopening at 8am).
+
+Helpful Extras (Hidden costs are a pain! If we can give it to you for free, we will, if we cannot do it as cheap possible!). 
+
+- Free City Maps 
+- Tourist Information, walking tours and advice on local attractions and transport (24hrs)
+- Daily events organized for our guests
+- Room key is a £5 cash deposit
+- Padlocks and Adaptors available for sale at the reception
+- Discounts at local restaurants and coffee shops
+- Towels are available for hire at £3.50
+- Clean, crisp linen on your bed ready to sleep on!
+- Late Check-Out available to sleep in a little more until Midday (book in advance at reception)!
+- ATM (Cash Machine)
+
+Winner of No.1 Small Hostel Group Worldwide, and a Lifetime Achievement Award for excellence in the Hostel Industry. We thrive on ensuring every guest comes satisfied and if you have any problems along the way we are always there ready to help! For this and many other reasons staying at Astor Hostels is the top choice for anyone exploring London on a budget! 
+
+Reservations must be made for guests over the age of 18. Any reservations made for those under the minimum age will be cancelled and you will not receive a refund. The hostel organises daily events aimed at backpackers between the ages of 18-30, it is therefore suggested that guests under the age of 40 would enjoy the hostel the most.
+ 
+Proof of identification must be shown on arrival and can include a passport, driving license and national identity cards. We cannot accept paper driving licences, student, or employee IDs as proof of identity and failure to show proof or a copy upon arrival will result in the cancellation of a reservation without a refund. Get in touch with us for further clarification.
+ 
+When booking for 10 persons or more, different policies and additional supplements will apply.","['Linen Included Free City Maps Free WiFi Free Internet Access', 'Security Lockers Key Card Access Common Room Meeting Rooms Adaptors Book Exchange Hot Showers Self-Catering Facilities Cable TV Hair Dryers For Hire Hair Dryers Iron / Ironing Board Safe Deposit Box Washing Machine Flexible NRR Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception ATM 24 Hour Security Housekeeping Late check-out', 'Vending Machines Cafe Tea & Coffee Making Facilities', ""PlayStation DVD's Board Games Wi-Fi""]",-,30
+17,St Christopher's Hammersmith,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Hammersmith/London/20976?from=2023-08-12&to=2023-08-15&guests=2,7.5km,7.5,4275,Very Good,Fantastic stay. My first solo time staying at any hostel/backpacker accomodation and my initial nerves soon went away. Staff were very helpful. Activities I was able to engage in were fun (I was only there 3 nights and busy one of them),"['Linen Included Free City Maps Free WiFi Free Internet Access', 'Security Lockers Key Card Access Hot Showers Reading Light Hair Dryers For Hire Hair Dryers Microwave Towels Not Included Follows Covid-19 sanitation guidance', 'Internet access Towels for hire Luggage Storage 24 Hour Reception Housekeeping Late check-out', 'Restaurant Bar Vending Machines', 'Nightclub Wi-Fi']",-,24
+18,St Christopher's Greenwich,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Greenwich/London/501?from=2023-08-12&to=2023-08-15&guests=2,7.6km,7.8,3373,Very Good,"Discover South London's rich history in the city's area of Greenwich. The Royal Observatory, Greenwich Park, the Cutty Sark, the Queen's House and the Emirates Airline cable car are just a few of the awesome attractions that Greenwich is famous for. Heading to a gig at the O2 Arena? We're just a 20 minute bus away if you need a bed after the show. 
+
+We're located right outside Greenwich station and the DLR, so our connections into central London couldn't be better getting you there in less than 20 minutes. Once you've filled your day with sightseeing, head back to our hostel party bar Belushi s so you can meet other backpackers and party with them into the early hours before heading just upstairs for a good night's sleep. There is a continental breakfast available every morning for just £5 a day which can be purchased at reception.on arrival.
+
+*Please note that we require an in date government approved - drivers license, passport or national ID card at check-in.
+
+**Guests under the age of 18 must stay in a private room with guardians. They cannot share in general dormitory rooms with people who are not part of their own group or family. Under-18s are not allowed in the bars or pubs.
+
+***Please note: non-refundable reservations will be fully charged at the time of booking.","['Linen Included Free City Maps Free WiFi Free Internet Access', 'Security Lockers Key Card Access Common Room Breakfast Not Included Adaptors Hot Showers Dryer Outdoor Terrace Reading Light Hair Dryers Microwave Washing Machine Towels Not Included Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage Housekeeping Reception (limited hours)', 'Restaurant Bar Meals Available Vending Machines', ""Nightclub DVD's Board Games Wi-Fi""]",-,23
+19,St Christopher's Camden,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Camden/London/505?from=2023-08-12&to=2023-08-15&guests=2,4.3km,7.1,4067,Very Good,"Find our Camden hostel in London's north, smack bang in the middle of one of the city's coolest neighbourhoods. Camden is covered with some of the world's best street art plus its live music scene is iconic. Just a short walk from St Christopher's is the famous Camden Market serving up some of the best street food in London as well as vintage clothes, antiques and loads more. Once you're done exploring the local attractions, head to Belushi's where you'll meet other travellers while rockin' out to live bands or taking part in a daily pub crawl! 
+
+Some of London's most famous live music venues are just a couple of minutes walk from our hostel. We also have Regents Park and Primrose Hill just a stone's throw away so you can benefit from seeing two different sides of the city within a few minutes. 
+There is a continental breakfast available every morning for just £5 a day which can be purchased at reception.on arrival.
+
+*Please note that we require an in date government approved - drivers license, passport or national ID card at check-in.
+
+**Guests under the age of 18 must stay in a private room with guardians. They cannot share in general dormitory rooms with people who are not part of their own group or family. Under-18s are not allowed in the bars or pubs.
+
+***Please note: non-refundable reservations will be fully charged at the time of booking.","['Linen Included Free City Maps Free WiFi Free Internet Access', 'Security Lockers Key Card Access Common Room Breakfast Not Included Adaptors Book Exchange Dryer Cable TV Hair Dryers For Hire Washing Machine Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception 24 Hour Security Housekeeping', 'Restaurant Bar Meals Available Cafe', ""Nightclub DVD's Board Games Wi-Fi""]",-,31
+20,"PubLove @ The Steam Engine, Waterloo","https://www.hostelworld.com/pwa/hosteldetails.php/PubLove%20@%20The%20Steam%20Engine,%20Waterloo/London/29389?from=2023-08-12&to=2023-08-15&guests=2",0.5km,8.0,410,Fabulous,"The heart & soul of London backpacking
+Pull up a bar stool and talk until morning at PubLove’s most sociable Hostel-Pub. As well as being on the doorstep of London’s biggest tourist attractions, the Steam Engine is beautifully soulful and life-afﬁrming - you’ll feel at home as soon as you step through the door. Warning: you’ll never want to leave. 
+Perfect for travellers looking to meet new people to share their London adventure.
+
+Legendary London adventures start at PubLove.
+All our Hostel-Pubs are welcoming, small and social - the perfect places to get to know your fellow travellers. The best thing about staying with us? Your common room is the great British pub! We have 24hr bars specialising in craft beer & gin. Get social with the locals or swap stories over a drink with your fellow backpackers.
+
+Our dorms are modern, cool and spotlessly clean. Our bunks have hygiene/privacy screens, dedicated power sockets, great free Wi-Fi and crisp white linen. Our top-class washrooms are private and offer shampoo, shower gel and plenty of hot water.
+
+Every Hostel-Pub has an award-winning Burger Craft kitchen serving up burgers, loaded fries and brunch, with vegetarian and vegan options. They open daily from 12pm until 10pm.
+
+BOOK NOW to start your own London adventure.","['Linen Included Free City Maps Free WiFi', 'Security Lockers Key Card Access Adaptors Hot Showers Outdoor Terrace Hair Dryers Ceiling fan Iron / Ironing Board Towels Not Included Flexible NRR', 'Internet access Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk 24 Hour Security Housekeeping Late check-out', 'Restaurant Bar Meals Available Cafe', 'Board Games Wi-Fi']",-,46
+21,Bell House Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/Bell%20House%20Hostel/London/315821?from=2023-08-12&to=2023-08-15&guests=2,4.2km,7.6,80,Very Good,"Boasting a bar and a shared lounge, Bell House Hostel is set in London.
+
+At the hostel, the rooms are equipped with a shared bathroom with a shower.
+
+Guests at Bell House Hostel can enjoy a continental breakfast.
+
+1 km from Madame Tussauds and 1.1 km from Lord's Cricket Ground. 
+
+The property is around 1.1 km from Paddington Station, 2 km from Regents Park, and 2.3 km from Oxford Street. 
+
+Oxford Circus is 2.8 km from the hostel and Euston Station is 3.3 km away.
+
+The Serpentine is 2.5 km from the accommodation, while London Zoo is 2.8 km from the property. 
+
+Bell House Hostel Policy and Condition:
+
+Cancellation policy: 72h before arrival. In case of a late cancellation or No Show, you will be charged the first night of your stay.
+
+Check in from 2pm.
+Check out before 10am .
+
+Payment upon arrival by credit cards, debit cards. 
+Taxes included.
+Breakfast not included - 3 GBP per person per day.
+
+General:
+24 hours reception.
+No curfew.","['Linen Included Free WiFi', 'Security Lockers', 'Bicycle Hire Towels for hire 24 Hour Reception Housekeeping', 'Bar', 'Wi-Fi']",-,32
+22,St Christopher's Shepherds Bush,https://www.hostelworld.com/pwa/hosteldetails.php/St%20Christopher's%20Shepherds%20Bush/London/506?from=2023-08-12&to=2023-08-15&guests=2,-,7.1,785,Very Good,"St Christopher's Inn Shepherds Bush gives travellers the chance to get a real feel for London life. Just out of the city centre, our hostel is opposite Shepherds Bush station with fantastic and super fast links to Soho, St Paul's Cathedral, Oxford Street and Marble Arch. You could be shopping on Oxford Street within 10 minutes!
+
+One of the biggest shopping centres in Europe, Westfield, is right over the road. Plus the beautiful Holland Park and colourful Portobello Road is just a short walk away. The Shepherds Bush O2 Empire music venue is just 5 minutes stroll down the road, so you can rock out at a gig before heading back to the hostel bar Belushi's to carry on the party into the night. At Belushi's our guests get insane deals on drinks and discounts on burgers plus it's the perfect place to meet other like-minded backpackers.There is a continental breakfast available every morning for just £5 a day which can be purchased at reception.on arrival.
+
+*Please note that we require an in date government approved - drivers license, passport or national ID card is required at check-in.
+
+**Guests under the age of 18 must stay in a private room with guardians. They cannot share in general dormitory rooms with people who are not part of their own group or family. Under-18s are not allowed in the bars or pubs.
+
+***Please note: non-refundable reservations will be fully charged at the time of booking.","['Linen Included Free City Maps Free WiFi', 'Security Lockers Key Card Access Common Room BBQ Breakfast Not Included Adaptors Book Exchange Hot Showers Dryer Outdoor Terrace Reading Light Hair Dryers For Hire Washing Machine Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk Housekeeping', 'Restaurant Bar', ""DVD's Board Games Wi-Fi""]",-,24
+23,Park Villa,https://www.hostelworld.com/pwa/hosteldetails.php/Park%20Villa/London/98066?from=2023-08-12&to=2023-08-15&guests=2,6.3km,8.4,909,Fabulous,"Park Villa is a new boutique hostel in the heart of the old East End of London. The hostel is a Georgian Regency villa with attached coach house and has been lovingly restored to reflect its original character and charm.
+
+Superfast WiFi is included in the price and all guests have access to a kitchenette (including kettles, toasters, fridge and combination microwave/grill/oven) and an inviting lounge / TV room. All rooms and showers are cleaned daily and the electronic entry systems, cameras and reception ensure the hostel is safe at all times. 
+
+We also offer a continental breakfast (£3 per night), fresh towels (£2 on check-in), a coin operated laundry and a car park (£10 per night). Cards and cash are accepted for payment.
+
+Our dorms at Park Villa feature oak wood floors, customised bunk bed pods, luxurious cotton bedding, grand plantation shutters and are mainly en suites. The family rooms offer the same luxury, with shared bathrooms and full size baths. All rooms offer warmth, comfort and lots of space to stretch out and make your own.
+
+Park Villa's Policies & Conditions:-
+Photo ID is required for all guests including UK nationals. Acceptable photo ID includes passport, national ID or drivers licence and for UK nationals, even a student ID is acceptable
+Cancellation policy: 7 days before arrival.
+Check in from 12:00 to 24:00 .
+Check out before 10:00 .
+Taxes included.
+Breakfast not included. Breakfast is available from 8am - 12 noon and costs £3 per night, payable on check-in.
+Payment upon arrival by cash, credit cards, debit cards. We will precharge in the 7th day before arrival 100% and if the charge fails, we will contact you and you will have 24 hs to arrange alternative payment, otherwise your booking will be cancelled.
+
+For Non-Refundable bookings, the full amount of the stay will be charged at the time of the booking. In case of a failed charge, we will contact you and we reserve the right to cancel your booking if no answer is given within 24 hours.
+
+General:-
+Car parking available for £10 per night (limited space - please check with us before)
+No curfew
+Non smoking","['Linen Included Free WiFi Free Internet Access', 'Security Lockers Key Card Access Common Room Bicycle Parking BBQ Breakfast Not Included Adaptors Book Exchange Hot Showers Linen Not Included Self-Catering Facilities Dishwasher Cooker Fridge/Freezer Utensils Dryer Cable TV Reading Light Parking Hair Dryers Iron / Ironing Board Safe Deposit Box Microwave Washing Machine Towels Not Included Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage Housekeeping Reception (limited hours)', 'Tea & Coffee Making Facilities', 'Board Games Games Room Wi-Fi']",-,57
+24,Kabannas London St Pancras,https://www.hostelworld.com/pwa/hosteldetails.php/Kabannas%20London%20St%20Pancras/London/7010?from=2023-08-12&to=2023-08-15&guests=2,3.3km,9.1,2872,Superb,"Located opposite Kings Cross/St Pancras International Station, Kabannas London St Pancras is your perfect getaway in London. We offer great value accommodation in the heart of London.
+Conveniently located to transit links so you can easily explore everyone's favourite city. Hop on a bus and you'll find yourself in Oxford Street's shops or South Kensington's Muesums in minutes. Perfect stopover for an early Eurostar train in to Europe.
+London, the city on the top of everyone's travel list, from your traditional tourist sites to the weird and whacky, our team LOVE London and can't wait to tell you all about it. 
+Come on in, the beds are comfy. From private rooms for two and dorms up to 6, we've got you covered (in a cosy duvet)
+
+Luggage room/stores
+Dorm rooms
+Bar
+
+Check in from 16:00
+Check out before: 10:00
+
+Visit our licensed café/bar for our city-style breakfast or relax over a light snack or full meal.
+
+London Attractions: We sell discounted and fast track entrance tickets to some of London’s most famous sights and best kept secrets. Including the London Eye, Madame Tussauds, The Tower of London, Walking tours, Bike tours, boat trips and many, many more. 
+
+Hostel Activities: We organise fun stuff for you to do nearly every day of the week! Such as Free Walking tours, top rated Pub Crawls, Group trips to famous West End Shows, Jet boating on the Thames, Burger nights, Sunday Roasts, movie nights…..well, you get the drift! It’s a fantastic way to meet other travellers and really make the most of your time in London! 
+
+Photo ID must be presented upon arrival and match the name and address on the booking. Where a booking is for more than one person, the named person on the booking will need to provide photographic proof of identify that matches the name and address on the booking. Photo ID will also be requested from all other adult guests. These photo IDs must match the name they sign in with at check in. If photo ID cannot be provided, you will be refused entry to the property.","['Linen Included Free City Maps Free WiFi', 'Wheelchair Friendly Security Lockers Key Card Access Elevator Breakfast Not Included Adaptors Book Exchange Hot Showers Reading Light Hair Dryers Washing Machine Towels Not Included Follows Covid-19 sanitation guidance', 'Internet access Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk 24 Hour Security', 'Bar Meals Available Cafe']",-,42
+25,Selina Camden,https://www.hostelworld.com/pwa/hosteldetails.php/Selina%20Camden/London/310274?from=2023-08-12&to=2023-08-15&guests=2,5.5km,8.7,54,Fabulous,"Among underground music venues, innovative museums, and hidden foodie hotspots, Selina Camden suits its edgy North London backdrop. Aside from offering beautifully-designed accommodation and a comfortable space to hang out, the Selina Camden hotel is an authentic cultural hub, consistent with great guest experience, an ever-changing calendar of exciting diverse programming, and unique wellness experiences. Reflecting Selina’s unique global reach, our Camden destination is here to explore and tie together the shape-shifting diversity of global music. On-site features include a fully-equipped communal kitchen, a loft complete with a stunning balcony, and a trendy vegan/vegetarian neighbourhood-style eatery.
+
+Wake up early and head downstairs for some yoga before experiencing the best of Camden’s vegan gastronomy scene at our hotel restaurant. Take to the streets and explore the many attractions on your doorstep- from Camden Market to London Zoo, The Electric Ballroom, and multiple nearby eateries, we’ve got you! Back at Selina, unwind in the basement accompanied by vinyl tunes, catch a performance by local young talent, or order a pre-gig cocktail at the bar. As the sun sets, catch a show in one of England’s most iconic venues or head to the streets to experience London’s eclectic nightlife till the early hours.","['Linen Included Towels Included Free WiFi Free Internet Access', 'Security Lockers Common Room Meeting Rooms Hot Showers Cots Available Flexible NRR', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk', 'Restaurant Bar Meals Available Cafe', 'Wi-Fi']",181,-
+26,"PubLove @ The White Ferry, Victoria","https://www.hostelworld.com/pwa/hosteldetails.php/PubLove%20@%20The%20White%20Ferry,%20Victoria/London/39761?from=2023-08-12&to=2023-08-15&guests=2",2.4km,7.0,358,Very Good,"Walk to the river, turn left, and just keep walking…
+Stay at The White Ferry House and ﬁnd yourself in an oasis of calm in a beautiful London backstreet. Located minutes from Victoria coach & train stations, our stunning ﬂat iron building is full of warmth, charm and history. Start your own river walk 5 minutes from our front door, or walk to Buckingham palace before you’ve ﬁnished your morning coffee! 
+Perfect for travellers who love to discover their own adventures.
+
+Legendary London adventures start at PubLove.
+All our Hostel-Pubs are welcoming, small and social - the perfect places to get to know your fellow travellers. The best thing about staying with us? Your common room is the great British pub! We have 24hr bars specialising in craft beer & gin. Get social with the locals or swap stories over a drink with your fellow backpackers.
+
+Our dorms are modern, cool and spotlessly clean. Our bunks have hygiene/privacy screens, dedicated power sockets, great free Wi-Fi and crisp white linen. Our top-class washrooms are private and offer shampoo, shower gel and plenty of hot water.
+
+Every Hostel-Pub has an award-winning Burger Craft kitchen serving up burgers, loaded fries and brunch, with vegetarian and vegan options. They open daily from 12pm until 10pm.
+
+BOOK NOW to start your own London adventure.","['Linen Included Free City Maps Free WiFi', 'Security Lockers Key Card Access Bicycle Parking Adaptors Hot Showers Outdoor Terrace Hair Dryers For Hire Hair Dryers Ceiling fan Iron / Ironing Board Towels Not Included Flexible NRR', 'Luggage Storage 24 Hour Reception Tours/Travel Desk 24 Hour Security Housekeeping Late check-out', 'Restaurant Bar Meals Available Cafe', 'Board Games Wi-Fi']",-,40
+27,YHA London Earls Court,https://www.hostelworld.com/pwa/hosteldetails.php/YHA%20London%20Earls%20Court/London/6981?from=2023-08-12&to=2023-08-15&guests=2,5.1km,9.1,1463,Superb,"Temporary changes at YHA London Earl's Court
+
+This hostel offers private rooms with en-suite or shared toilet and shower facilities on corridors. For stays before 7th September 2020, private rooms using shared toilets and showers will be allocated a specific toilet/shower for sole-use. From the 7th September shared toilets and showers will be in operation with extra Covid-secure cleaning regimes.
+
+For the foreseeable future, the following facilities will not likely be in operation at YHA London Earl's Court, although we’re working hard to open these safely as soon as we can:
+
+Self-catering kitchen
+Lounge
+Luggage room/stores
+Dorm rooms
+Bar
+
+Dorms are not currently available but we’re working hard to re-introduce them.
+
+We will be serving a limited food and drinks menu for guests to take away.
+
+This is a fantastic base for exploring England's capital. 
+
+YHA London Earls Court is a busy 24-hr hostel with easy access to Heathrow and Gatwick. Just a short walk to the Exhibition Centre and tube station, this makes it ideal for seeing what the whole city has to offer. 
+
+Our modern facilities in a Victorian building provide a convenient base, whether you're in London to explore its attractions or looking for a stop-over while you attend a gig or event at the nearby Olympia and Earls Court exhibition centre's. This cosmopolitan area of west London is close to Kensington Gardens, Hyde Park, The Natural History Museum, The Royal Albert Hall and The Science Museum. 
+
+Please note, we do not charge an additional temporary membership fee. Discounts are not available for members of YHA (England & Wales) or IYHF as part of this booking.
+
+London Attractions: We sell discounted and fast track entrance tickets to some of London’s most famous sights and best kept secrets. Including the London Eye, Madame Tussauds, The Tower of London, Walking tours, Bike tours, boat trips and many, many more. Plus, every penny we make at YHA goes directly back in to our charity ‘Breaks for Kids’ which makes it possible for children from financially disadvantaged backgrounds to take part in school or community group breaks away! Ask us for a full activity list on check in.
+
+Hostel Activities: We organise fun stuff for you to do nearly every day of the week! Such as Free Walking tours, top rated Pub Crawls, Group trips to famous West End Shows, Jet boating on the Thames, Burger nights, Sunday Roasts, movie nights…..well, you get the drift! It’s a fantastic way to meet other travellers and really make the most of your time in London! Find out what’s happening in Your YHA London Hostel while you’re staying with us - ask for the itinerary when you check in.","['Linen Included Free WiFi', 'Security Lockers Key Card Access Common Room Breakfast Not Included Book Exchange Self-Catering Facilities Cable TV Reading Light Hair Dryers For Hire Washing Machine Follows Covid-19 sanitation guidance', 'Internet access Towels for hire Luggage Storage 24 Hour Reception 24 Hour Security', 'Cafe', 'Board Games']",331,-
+28,"PubLove @ The Crown, Battersea","https://www.hostelworld.com/pwa/hosteldetails.php/PubLove%20@%20The%20Crown,%20Battersea/London/60336?from=2023-08-12&to=2023-08-15&guests=2",4.7km,7.3,307,Very Good,"Do London like a local.
+Stay just outside the hustle of the city in a leafy London suburb at our neighbourhood Hostel-Pub, The Crown. Hang out with the friendliest locals in town and enjoy the banter over live sports on our big screens, watch the world go by on the terrace, or get comfortable with new friends in our courtyard garden.
+Perfect for travellers looking to experience real London with real Londoners.
+
+Legendary London adventures start at PubLove.
+All our Hostel-Pubs are welcoming, small and social - the perfect places to get to know your fellow travellers. The best thing about staying with us? Your common room is the great British pub! We have 24hr bars specialising in craft beer & gin. Get social with the locals or swap stories over a drink with your fellow backpackers.
+
+Our dorms are modern, cool and spotlessly clean. Our bunks have hygiene/privacy screens, dedicated power sockets, great free Wi-Fi and crisp white linen. Our top-class washrooms are private and offer shampoo, shower gel and plenty of hot water.
+
+Every Hostel-Pub has an award-winning Burger Craft kitchen serving up burgers, loaded fries and brunch, with vegetarian and vegan options. They open daily from 12pm until 10pm.
+
+BOOK NOW to start your own London adventure.","['Linen Included Free City Maps Free WiFi', 'Security Lockers Adaptors Hot Showers Utensils Outdoor Terrace Iron / Ironing Board Towels Not Included Flexible NRR', 'Luggage Storage 24 Hour Reception 24 Hour Security Housekeeping Late check-out', 'Restaurant Bar Meals Available Cafe', 'Board Games Wi-Fi']",-,32
+29,Strand Continental,https://www.hostelworld.com/pwa/hosteldetails.php/Strand%20Continental/London/51118?from=2023-08-12&to=2023-08-15&guests=2,1.3km,6.2,977,Good,"Welcome to one of London's cheapest, friendliest and well-located hostels! Situated in the heart of the West End, opposite Covent Garden, and 10 minutes walk from Trafalgar Square and the London Eye. There are theatres, restaurants and nightlife all on your doorstep!
+
+Offering both mixed dormitories and single, double and family rooms. All rooms are equipped with washbasins, and have shared bathroom facilities. There is also a 1940s bar and restaurant which are great for meeting other travellers. 
+
+Guests can enjoy:
+No curfew
+Free WI-FI in the lounge (no WI-FI in the bedrooms)
+24 hour reception
+Linen included 
+Towels included in private rooms (not in dorms). You can bring your own or rent them for Â£2 each towel
+Tea/Coffee making facilities (in private rooms)
+Safe luggage storage free of charge
+Multilingual staff: English, Spanish, French, Hindi, Polish
+Sorry, no lift!
+
+Check in time: 2:00 pm
+Check out: 10:00 am
+Cash or credit/debit cards accepted.
+
+Cancellation policy:
+Guests can cancel their bookings free of charge uptil 24 hours prior to arrival. Failure to give a 24 hour cancellation notice will result in the total booking being charged.
+
+Please note that a £5 key deposit in cash will be charged on arrival, and returned to guests when they return their room key on departure. There is no lift and rooms start from the third floor upwards.
+
+In order to confirm the booking, you need to provide us with the CVC/CVV/Security number on the back of the card used to book on this site. Please send this to our email address. Failure to comply with this can result in your booking being cancelled.
+
+For guest staying over 31st December the following applies: 2 nights minimum stay. Payment is taken at the time of booking. Bookings are non-refundable.","['Common Room Hot Showers Iron / Ironing Board Safe Deposit Box Flexible NRR Follows Covid-19 sanitation guidance', 'Towels for hire Luggage Storage 24 Hour Reception Housekeeping', 'Restaurant Bar']",81,29
+30,Hootananny Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/Hootananny%20Hostel/London/24068?from=2023-08-12&to=2023-08-15&guests=2,-,7.7,1518,Very Good,"Hootananny is a lively hostel with spacious rooms in a traditional Edwardian public house dating back to the early 1850s. We offer large, airy, comfortable rooms and have a great reputation for a warm atmosphere and helpful staff. We're located in the heart of Brixton with excellent transport links - a great location to stay and explore the city of London.
+
+With just a ten-minute walk to Brixton underground station, you are straight into Central London on the tube in less than 15 minutes. As one of Londons most diverse and vibrant areas, Brixton has world famous covered and street markets, is a hub for music venues, is full of atmospheric pubs and has the pick of the worlds best cuisine with a great selection of restaurants. Hootananny is located right next to two bus stops with 24-hour connections to the city centre.
+
+Hostellers are treated to a 20% discount on drinks at the award-winning Hootananny music venue downstairs. Hootananny is a raucous music venue in Brixton with a lively beer garden and live music Wed-Sun and sometimes in between!
+
+Important
+- Please be aware that you must present photo I.D. when you arrive. We only accept passports or a driving license as valid I.D. This is a hostel for over 18s only, there are no family rooms and we do not cater for young children.
+- The hostel is located above a live music venue, and music can be heard throughout the hostel until fairly late on Friday and Saturday nights. This does not prove to be a problem for many of our guests, but we can provide you with earplugs if you would like to ensure a good night's sleep.
+- Reception is open from 9am - 12 midnight. Check-in time is after 2pm, but if you arrive early you can always relax in our lounge room or use the amenities.
+- Check-out time before 11am.
+- Bookings for groups of 4 or more require pre approval from the property and full payment in advance.
+- We are a backpackers hostel and do not check in local residents of London into our hostel.
+
+Happy travels!","['Free Breakfast Linen Included Free City Maps Free WiFi Free Internet Access', 'Security Lockers Common Room Bicycle Parking Adaptors Hot Showers Self-Catering Facilities Cable TV Outdoor Terrace', 'Towels for hire Luggage Storage ATM Housekeeping', 'Restaurant Bar Tea & Coffee Making Facilities', ""DVD's Pool Table""]",-,37
+31,PubLove @ The Rose & Crown,https://www.hostelworld.com/pwa/hosteldetails.php/PubLove%20@%20The%20Rose%20&%20Crown/London/297123?from=2023-08-12&to=2023-08-15&guests=2,1.6km,7.7,198,Very Good,"Food & culture lovers, assemble!
+The Rose & Crown is the perfect base to wander the incredible streets of London’s effortlessly cool Southbank. Walk the Thames path to see the majestic sights or head off on a self-guided exploration to discover unseen London. The surrounding area is bursting with vibrancy and culture making it the city’s current food & drink hotspot. The world-famous Borough Market is just around the corner and Flat Iron street food market is opposite our lovely little Hostel-Pub. 
+Perfect for discovering the beating heart of London’s food & drink and creative scene.
+
+Legendary London adventures start at PubLove.
+All our Hostel-Pubs are welcoming, small and social - the perfect places to get to know your fellow travellers. The best thing about staying with us? Your common room is the great British pub! We have 24hr bars specialising in craft beer & gin. Get social with the locals or swap stories over a drink with your fellow backpackers.
+
+Our dorms are modern, cool and spotlessly clean. Our bunks have hygiene/privacy screens, dedicated power sockets, great free Wi-Fi and crisp white linen. Our top-class washrooms are private and offer shampoo, shower gel and plenty of hot water.
+
+Every Hostel-Pub has an award-winning Burger Craft kitchen serving up burgers, loaded fries and brunch, with vegetarian and vegan options. They open daily from 9am until 10pm.
+
+BOOK NOW to start your own London adventure.","['Linen Included Free City Maps Free WiFi', 'Security Lockers Key Card Access Bicycle Parking Adaptors Hot Showers Outdoor Terrace Hair Dryers For Hire Hair Dryers Ceiling fan Iron / Ironing Board Towels Not Included Flexible NRR', 'Internet access Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk 24 Hour Security Housekeeping Late check-out', 'Restaurant Bar Meals Available Cafe', 'Board Games Wi-Fi']",-,52
+32,Kensal Green Backpackers,https://www.hostelworld.com/pwa/hosteldetails.php/Kensal%20Green%20Backpackers/London/4483?from=2023-08-12&to=2023-08-15&guests=2,8.2km,5.2,3721,-,"Kensal Green Backpackers is a legendary hostel full of character, aiming to provide a stay in a fun, affordable and safe enviroment.
+
+We are located right across the road from Kensal Green tube and overground station (Bakerloo line) and bus no: 18 will take you to the heart of London 24 hours a day.
+Our friendly team of multi-lingual staff are happy to assist you 24/7.
+
+Fresh linen, Wi-Fi, comfortable beds, hot showers are all included in your stay. All our rooms have showers and water basins.
+
+At our amazing hostel you will have free access to:
+
+-Full facility kitchens
+-Dining space
+-Large lounge with pool table and Sky-TV
+-Free weekly entertainment
+
+Affordable extras
+
+-Laundry service (wash&dry)
+-Bar
+-Coffee shop
+-Restaurant
+-Breakfast available at reasonable cost
+-Storage room
+-Adaptors
+-Towels for hire
+-Tourist information and advice on local attractions and transport
+
+Please note that valid photo ID is mandatory for check-in. We ask for a £10 key deposit which would be returned to you upon check out.
+Kensal Green Backpackers only caters for travellers aged between 18-40 yrs old.","['Linen Included Free City Maps', 'Common Room Breakfast Not Included Adaptors Hot Showers Self-Catering Facilities Cable TV Card Phones Washing Machine Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk 24 Hour Security Housekeeping Reception (limited hours)', 'Restaurant Bar Meals Available Cafe', ""DVD's Games Room Pool Table Wi-Fi""]",109,31
+33,YHA London Central,https://www.hostelworld.com/pwa/hosteldetails.php/YHA%20London%20Central/London/23598?from=2023-08-12&to=2023-08-15&guests=2,2.9km,8.4,4766,Fabulous,"YHA London Central boasts seven floors of modern, budget accommodation, just five minutes' walk from Oxford Street. This is the perfect place for young backpackers wanting to experience the heart of the capital. 
+
+Great news! Modern, stylish and affordable accommodation in London is possible. Our on-site cafe/bar is perfect for a relaxing drink or snack and to swap stories with fellow travellers. We have 24hr reception facilities and access. 
+
+We're within very easy reach of Oxford Circus, Soho and the West End, so great shopping opportunities, restaurants and entertainment await you. 
+
+YHA London Central is not equipped for groups - for group bookings please contact YHA London Thameside or YHA London Holland Park, both found here on Hostelworld.
+
+Please note that we do not charge an additional temporary membership fee. Discounts are not available for members of YHA (England & Wales) or IYHF as part of this booking.
+
+London Attractions: We sell discounted and fast track entrance tickets to some of London's most famous sights and best kept secrets. Including the London Eye, Madame Tussauds, The Tower of London, Walking tours, Bike tours, boat trips and many, many more. Plus, every penny we make at YHA goes directly back in to our charity 'Breaks for Kids' which makes it possible for children from financially disadvantaged backgrounds to take part in school or community group breaks away! Ask us for a full activity list on check in.
+
+Hostel Activities: We organise fun stuff for you to do nearly every day of the week! Such as Free Walking tours, top rated Pub Crawls, Group trips to famous West End Shows, Jet boating on the Thames, Burger nights, Sunday Roasts, movie nights'..well, you get the drift! It's a fantastic way to meet other travellers and really make the most of your time in London! Find out what's happening in Your YHA London Hostel while you're staying with us - ask for the itinerary when you check in.","['Linen Included Free City Maps Free WiFi', 'Wheelchair Friendly Security Lockers Key Card Access Common Room Breakfast Not Included Book Exchange Hot Showers Cots Available Self-Catering Facilities Cooker Utensils Cable TV Reading Light Hair Dryers For Hire Iron / Ironing Board Microwave Follows Covid-19 sanitation guidance', 'Internet access Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk ATM 24 Hour Security', 'Bar Meals Available Vending Machines Cafe Tea & Coffee Making Facilities', 'Board Games Foosball Wi-Fi']",225,49
+34,Enrico Hotel,https://www.hostelworld.com/pwa/hosteldetails.php/Enrico%20Hotel/London/5585?from=2023-08-12&to=2023-08-15&guests=2,-,8.2,173,Fabulous,"The location of Enrico Hotel is fantastic. I needed a place very close to Victoria Green Line Station, and the hotel was a fantastic five-minute walk away. I cannot say it for the entire hotel, but what I experienced including corridors, showers and toilets, the hotel seemed to be nice and clean. I, however, rated the whole 'cleanliness' section down as my tiny room stank of cigarette smoke, and that is despite the hotel had a 'strictly no smoking in the entire building' rule. It smelled bad!","['Linen Included Free City Maps Towels Included Free WiFi Free Internet Access', 'Security Lockers Adaptors Hot Showers Dryer Hair Dryers For Hire Hair Dryers Ceiling fan Iron / Ironing Board', 'Internet access Laundry Facilities Airport Transfers Luggage Storage Fax Service 24 Hour Reception Tours/Travel Desk Shuttle Bus Housekeeping Late check-out Wake-up calls', 'Tea & Coffee Making Facilities', 'Wi-Fi']",110,-
+35,London Waterloo Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/London%20Waterloo%20Hostel/London/39493?from=2023-08-12&to=2023-08-15&guests=2,0.7km,5.8,2542,-,"The London Waterloo Hostel 16-40 years in DORMS has a lively atmosphere with most of our guests being aged 18-40 years of age and therefore may not be suitable for guests over 40 years of age.
+
+WE NOW OFFER A FREE DINNER FROM MONDAY-THURSDAY 7-8PM
+
+We are a 15 minute walk (5280 feet) from Big Ben and Westminster Abbey, Lambeth North which is in ZONE 1 with direct connections to OXFORD CIRCUS & PICCADILLY CIRCUS is only a 5 minute walk (2112 feet). The Imperial War Museum is only a 2 minute walk from us. (1766 feet). We are 3.8 miles from the Natural History Museum and the same distance from the Sciences Museum and Victoria & Albert Museums. 
+
+Waterloo station is only a 13 walk from us (5162 feet).
+
+Near the banks of the River Thames we offer free Fibre WiFi, free lockers, free bed linen. Our reception desk is open 24/7 to answer any questions you may have.
+All rooms and dormitories feature bunk beds with 2 USB sockets and double UK/sockets. Bed linen is provided, and there are plenty of shared bathroom facilities. Some dormitory rooms feature air conditioning.
+
+The modern hostel has secure luggage lockers and a lively common room. Every night is movie night on the 55-inch 4K TV.
+
+Guests can socialize in the communal areas with a 55-inch TV and the lobby bar serves soft drinks snacks and beer all day.
+
+There is a bicycle docking station only a 5-minute walk away and a 24-hour bus stop at the end of the road. 
+
+Free FIBRE WIFI throughout the entire building
+Free lockers.. 
+Free internet
+Free city maps
+Free London walking tour
+Free bed linen
+
+You can arrive at anytime in the morning to drop your luggage off and return anytime to check into your bedroom
+
+There are no hidden costs
+
+We are unable to accommodate under-16's in our dormitories. Guests under the age of 16 are welcome to stay in one of our private rooms as long as they are accompanied by a adult parent or guardian.
+
+Photo ID required upon check-in. (no ID, no stay, no exception). 
+
+Please read our things to note below before making a booking.","['Linen Included Free City Maps Free WiFi Free Internet Access Free City Tour', 'Security Lockers Common Room Bicycle Parking Adaptors Book Exchange Hot Showers Self-Catering Facilities Cooker Fridge/Freezer Utensils Hair Dryers Iron / Ironing Board Microwave Towels Not Included Flexible NRR Follows Covid-19 sanitation guidance', 'Internet access Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk 24 Hour Security Housekeeping Late check-out', 'Bar Tea & Coffee Making Facilities', 'Board Games Games Room Wi-Fi']",97,31
+36,Paramount Hotel,https://www.hostelworld.com/pwa/hosteldetails.php/Paramount%20Hotel/London/290937?from=2023-08-12&to=2023-08-15&guests=2,5.7km,7.0,40,Very Good,"The Paramount Hotel is a family-owned Victorian town-house hotel which offers bright, well-equipped rooms, with flat-screen TV & en-suite shower rooms in a prime area in London. 
+
+With our own private back garden, which includes outdoor seating area, we are a great choice for travellers who want a charming and peaceful place to stay.There are several shops, grocery stores, bars and restaurants, as well as live music venues nearby.
+
+Breakfast is not provided, however, are several supermarkets and cafes, (plus bars and restaurants) within a five-minute walk. Food / beverages can be stored in our communal fridge.
+
+The hotel is just a 5-minute walk from Earls Court Tube Station, Kensington Palace is less than a mile away, whilst the Natural History Museum, the V&A, Science Museum and Hyde Park are within 15 minutes' walk. 
+
+Paramount Hotel policies & conditions; 
+
+Cancellation policy: 7 days before arrival by 6pm. 
+
+Check in from 15:00 to 23:00 .
+Check out before 11:00 .
+Reception hours: 3pm-7am
+
+Payment upon arrival by credit cards, debit cards only. We do not accept American Express cards.
+The cardholder and the card used to make the booking must be present at the time of arrival. The original payment card must be shown upon check-in for a security deposit to be charged. The property does not accept third-party authorisations, virtual cards or company cards. 
+Guests are required to show a photo identification and payment debit / credit card upon check-in. Please note that we cannot necessarily accommodate any Special Requests and additional charges may apply.
+
+Taxes included.
+Breakfast not included.
+
+General:
+No curfew.
+We do not accept customers younger than 5 years of age. Minimum age of person booking room: 16
+Non smoking.
+Needs to be stated that our Victorian townhouse hotels do not have lifts or air-conditioning. 
+Guests may leave luggage in the communal reception. This is an unsupervised and unsecured area. 
+The hotels are unable to accept packages or tickets on behalf of guests. 
+VAT Invoices can be supplied at any time during guests’ stay in the presence of the card holder and the card used to make the booking.","['Towels Included', 'Breakfast Not Included Hot Showers Hair Dryers', 'Housekeeping']",102,-
+37,"PubLove @ The Green Man, Paddington","https://www.hostelworld.com/pwa/hosteldetails.php/PubLove%20@%20The%20Green%20Man,%20Paddington/London/21953?from=2023-08-12&to=2023-08-15&guests=2",4.3km,5.2,451,-,"Where it all began - PubLove was born here in 2007. 
+Loved by backpackers for well over a decade, The Green Man is the original Hostel-Pub and the ideal base for your London adventure. Visit the legendary Wembley Stadium & Lords Cricket ground, hit the shops on the world-famous Oxford Street, then dive into the warm glow of the West End & Theatre-Land. Head back to the bar to check your photos over a pint & a burger. London baby!
+Perfect for the travellers looking to experience the London that the whole world loves.
+
+Legendary London adventures start at PubLove.
+All our Hostel-Pubs are welcoming, small and social - the perfect places to get to know your fellow travellers. The best thing about staying with us? Your common room is the great British pub! We have 24hr bars specialising in craft beer & gin. Get social with the locals or swap stories over a drink with your fellow backpackers.
+
+Our dorms are modern, cool and spotlessly clean. Our bunks have hygiene/privacy screens, dedicated power sockets, great free Wi-Fi and crisp white linen. Our top-class washrooms are private and offer shampoo, shower gel and plenty of hot water.
+
+Every Hostel-Pub has an award-winning Burger Craft kitchen serving up burgers, loaded fries and brunch, with vegetarian and vegan options. They open daily from 12pm until 10pm.
+
+BOOK NOW to start your own London adventure.","['Linen Included Free City Maps Free WiFi', 'Security Lockers Adaptors Hot Showers Hair Dryers For Hire Hair Dryers Ceiling fan Iron / Ironing Board Towels Not Included Flexible NRR', 'Internet access Luggage Storage 24 Hour Reception Tours/Travel Desk 24 Hour Security Housekeeping Late check-out', 'Restaurant Bar Meals Available Cafe', 'Board Games Wi-Fi']",321,34
+38,Zedwell Piccadilly Circus,https://www.hostelworld.com/pwa/hosteldetails.php/Zedwell%20Piccadilly%20Circus/London/319783?from=2023-08-12&to=2023-08-15&guests=2,1.6km,-,-,-,"Experience a whole new level of relaxation at Zedwell, the new hotel dedicated to sleep and well-being. From the calming scent of lavender, rosemary, and bergamot to the specially curated playlist, the experience starts as soon as you walk through the door. 
+
+With its innovative design, comfortable beds, and carefully considered lighting and temperature, Zedwell provides an oasis of calm in the heart of busy London. From its air-purifying filters to its spacious lobby and public spaces, every detail is designed to help you relax and unwind. So check in to Zedwell and tune out to experience a whole new level of rest.
+
+Zedwell Piccadilly Circus Policy and Conditions:
+
+Payment upon arrival by credit cards, debit cards. 
+Taxes included.
+Breakfast not included.
+
+General:
+24 hours reception.
+No curfew.
+
+Early Check-in and Late Check-out:
+
+Early check-in and late check-out can be arranged at the hotel, subject to availability and fee. Just follow the instructions on your check-in kiosk or ask one of our team for help.
+
+Room payment:
+
+We accept all major credit cards.
+
+Upgrades and Accommodation in Sister Hotels:
+
+In the unlikely event of not being able to accommodate your booking, we will upgrade you to one of our sister hotels, subject to availability.
+if you are not satisfied with the proposed arrangement, we will offer a full refund.
+If we are unable to relocate you, we will provide a full refund processed within 7 days, and also a voucher for a 1-night complimentary stay to be used within 12 months.
+
+Forgot your reservation:
+
+If you don’t arrive as planned, the full stay will be charged to the payment card given at the time of booking. If you have booked more than one night with us, your room will be held until midday the following day after your planned arrival date. After this time, the room will be released.
+
+Pet Policy:
+
+We’re sorry, but we don’t allow pets at Zedwell. Guide dogs and service animals are permitted.","['Linen Included Towels Included Free WiFi Free Internet Access', 'Key Card Access Air Conditioning Hot Showers', 'Internet access Luggage Storage 24 Hour Reception 24 Hour Security Housekeeping Express check-in / out', 'Vending Machines']",393,-
+39,London House Hotel,https://www.hostelworld.com/pwa/hosteldetails.php/London%20House%20Hotel/London/529?from=2023-08-12&to=2023-08-15&guests=2,5.3km,10,1383,Superb,"Our lovely boutique hotel is conveniently located in Central London and is perfect for those looking for a charming and enjoyable stay in the heart of London. We do offer private rooms ranging from singles to triple and quad family rooms, as well as 24-hour reception with in-house security. The 103-room hotel is housed in a charming Victorian Townhouse building and is very close to some of the most popular London attractions like Portobello Road Market, Kensington Palace, Hyde Park, Royal Albert Hall, Notting Hill and many more.
+
+All the rooms have been furnished with a blend of style and functionality in mind. Each of our rooms feature an en-suite bathroom, flat-screen TV, a safe, mini-fridge, free Wi-Fi, free smartphone, dual sockets, clean linen, hair dryers, free toiletries, coffee and tea facilities , air conditioning and central heating
+
+We serve fully continental breakfast buffet (charges apply).
+
+We look forward to welcoming you at London House and make your stay as pleasant as possible!
+
+Check-in: 2pm
+
+Check-out: 11:00am","['Free City Maps Free WiFi', 'Key Card Access Elevator Breakfast Not Included Air Conditioning Adaptors Cots Available Cable TV Reading Light Hair Dryers Safe Deposit Box Card Phones', 'Airport Transfers Luggage Storage Fax Service 24 Hour Reception Tours/Travel Desk Shuttle Bus Housekeeping Late check-out Reception (limited hours)', 'Vending Machines Tea & Coffee Making Facilities']",301,-
+40,Park Hotel Essex,https://www.hostelworld.com/pwa/hosteldetails.php/Park%20Hotel%20Essex/London/10143?from=2023-08-12&to=2023-08-15&guests=2,24.1km,8.0,109,Fabulous,"This Hotel is the right choice for visitors who are searching for a combination of charm, peace and quiet, and a convenient position from which to explore Venice. It is a small, comfortable hotel, situated on the Canale di Cannaregio. The Templatic family and their staff offer an attentive, personalized service and are always available to offer any help to guests.
+
+The hotel is arranged on three floors, without a lift. On the ground floor, apart from the reception, there is a comfortable lounge where you can sit and drink tea, or just read. There is also a splendid terrace, where, you can relax and immerge yourself from morning onwards in the atmosphere of Venetian daily life, watching the city travelling about by water and people gathering together and filling the alleyways and little squares with their chatter.
+
+The rooms are arranged on the first, second and third floors. On the top floor, there is also a delightful terrace or solarium available for the use of guests, from where you can enjoy the wonderful view.
+
+
+The hotel provides an internet point, and a Wi-Fi service is available for an additional fee.
+
+Service and Facilities
+24 hour reception service
+Internet access
+Free Wi-Fi
+Flat-screen TV
+Radio
+Alarm clock
+Desk
+Electric kettle
+Private bathroom
+Free toiletries
+Towels
+Linen
+Fan
+Heating","['Free Parking', 'Parking Follows Covid-19 sanitation guidance', '24 Hour Reception', 'Tea & Coffee Making Facilities']",324,-
+41,Litsa's Central Studios,https://www.hostelworld.com/pwa/hosteldetails.php/Litsa's%20Central%20Studios/London/317332?from=2023-08-12&to=2023-08-15&guests=2,4.3km,10,1,Superb,"Litsa's Central Studios, nestled in the heart of London, offers free WiFi to guests throughout the property. The hostel's central location makes it a convenient home base for exploring the city's famous attractions, with The Serpentine and Madame Tussauds both located within a 2-kilometer radius. For those interested in cultural events, the Royal Albert Hall is just a stone's throw away, while sports enthusiasts will enjoy being near the Lord's Cricket Ground.
+
+The hostel's proximity to Paddington Station is a major perk, as guests can easily reach other parts of London via the underground, buses, or trains. Oxford Street, one of the city's premier shopping destinations, is also within easy walking distance, providing a great opportunity for some retail therapy.
+
+The property is located just 2.9 kilometers from the city center, allowing visitors to explore all that London has to offer. With so many sights and experiences nearby, Litsa's Central Studios is the perfect choice for travelers looking for a comfortable and convenient stay in one of the world's most vibrant cities.
+
+Litsa's Central Studios Policy and Conditions:
+
+Cancellation policy: 72h before arrival. In case of a late cancellation or No Show, you will be charged the first night of your stay.
+
+Check in from 15:00 to 23:00 .
+Check out from 00:00 to 11:00 .
+
+Payments must be made and charged in advance.
+Taxes not included - 20%
+Breakfast not included.
+
+General:
+Reception: from 11:00 to 22:00
+No curfew.","['Linen Included Towels Included Free WiFi Free Internet Access', 'Breakfast Not Included Microwave', 'Internet access', 'Wi-Fi']",120,-
+42,Kip Hotel,https://www.hostelworld.com/pwa/hosteldetails.php/Kip%20Hotel/London/266789?from=2023-08-12&to=2023-08-15&guests=2,6.8km,7.7,55,Very Good,"Kip is on a mission to bring the world style and service without the silly price tags. So do yourself a favour, and next time you’re in town #GetSomeKip. Come see us at our brand new Hackney Central location. We need good kip like we need food, water and free wi-fi, but we don’t think that a stylish, comfortable hotel bed should cost the earth.
+That’s why we came up with the Kip concept – hand-crafted, monochrome interiors, and a range of accommodation to suit every need, from live/work accommodation through to holiday-makers and families, couples, groups and singles, out-of-towners and London locals.
+
+Located In Hackney next to Hackney Central Station the hotel is perfectly situated with great access to the London Travel network. Whether your in London to see the sights or for work, Hackney is the perfect location to base yourself with excellent access to transport and the city.
+
+Kip provides a wide range of room types from Pods and Cabin rooms with shared facilities to our large group rooms with en-suites for 6 and 8 people. Kip also provides all of it's guests with free high speed internet.
+
+Kip Hotel Policies & Conditions:
+
+For standard reservations: Kip will take the full amount of your stay within 48 hours of your arrival date, this amount is non-refundable in case of a no-show or late cancellation.
+
+For advance purchase reservations: This reservation requires full pre-payment and is non-amendable and non-refundable. We will charge the full amount of the reservation to the credit card used to make this reservation shortly after the reservation has been made.
+
+ For group reservations: This policy applies to bookings for KipFriends group rooms (rooms with capacity for 6+ guests) and/or single reservations for 5 or more rooms. All bookings must be secured with a valid credit card number at the time of booking. Full payment for group bookings will be taken 14 days prior to the arrival date. Once taken this payment is fully non-refundable.
+
+If you need to change or cancel a reservation this must be in writing. 
+Cancellation policy for New Year's Eve(31.12.2017) is 7 days before arrival.
+
+Check in from 15:00 to 23:00 .
+Check out before 11:00 .
+
+Payment upon arrival by cash, credit cards, debit cards (Visa, Mastercard).
+This property may pre-authorise your card before arrival.
+
+You MUST present the card used for the booking upon arrival. If this is not possible and the card used for the reservation does not belong to the guest, a third party form must be requested directly from the hotel (email: hello@getsomekip.com or tel: +44 20 8629 7884) and completed prior to the arrival date. Failure to do so may result in the guest not being allowed to check in.
+
+Taxes included.
+Breakfast not included.
+
+General:
+We have 24 hour Reception.
+No curfew.
+You can only make a booking if you are 18 years old or over. If you arrive at the hotel and are under 18 years of age you will not be permitted to stay alone.
+Child friendly.","['Towels Included Free WiFi', 'Key Card Access Breakfast Not Included Cots Available Hair Dryers Iron / Ironing Board', 'Bicycle Hire Luggage Storage 24 Hour Reception 24 Hour Security Housekeeping']",106,-
+43,Hotel Shepherds Bush London,https://www.hostelworld.com/pwa/hosteldetails.php/Hotel%20Shepherds%20Bush%20London/London/308621?from=2023-08-12&to=2023-08-15&guests=2,7.6km,5.1,1,-,"Hotel Shepherds Bush London provide 4 star hotel service in London. Reception and Cafe-Bar is open 24 hours 7 days a week.
+
+All hotel bedrooms are on-suite, fully equipped: Free Wi-fi; Linen, towels, and daily cleaning service; Slippers; Tea & Coffee making facilities (including Kettle, tea, coffee); Toiletries: shampoo, soap, conditioner, body wash; Hairdryer; Refrigerator; Iron and Ironing board; Free view TV (flat screen good size).
+
+Location: Shepherds Bush, White City, London. Next to Westfield Shopping center and near BBC TV center.
+
+Metro stations: Shepherds Bush Market (For Hammersmith & City line metro), and Shepherds Bush (For Central Line metro, Overground, Rail, and Bus station).
+We follow all COVID safety guidelines including cleaning, disinfection.
+
+Hotel Shepherds Bush London - Terms & Conditions :
+
+The reception works 24-hours 7 days a week
+
+Cancellation policy: 24h before arrival (for flexible rate). In case of a late cancellation or No Show, you will be charged the first night of your stay. Non-refundable rate are non refundable, non amendable, full charge applies.
+
+Check in from 14:00 (Reception is open 24 hours 7 days per week).
+Check out before 11:00 .
+
+Payment upon arrival by credit cards, debit cards. 
+This property may pre-authorize your card before arrival for room security (not a charge, it is authorization only)
+Taxes included.
+
+Breakfast not included - can be pre-ordered at extra 10.00 GBP per person per day.","['Linen Included Free City Maps Towels Included Free WiFi Free Internet Access', 'Wheelchair Friendly Security Lockers Key Card Access Elevator Breakfast Not Included Air Conditioning Meeting Rooms Adaptors Hot Showers Cots Available Fridge/Freezer Dryer Cable TV Outdoor Terrace Reading Light Hair Dryers Ceiling fan Iron / Ironing Board Safe Deposit Box Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Luggage Storage Direct Dial Telephone Fax Service 24 Hour Reception ATM Postal Service 24 Hour Security Housekeeping Business Centre Concierge Express check-in / out Internet café Late check-out Room Service (24 hours) Wake-up calls', 'Bar t_CAF Tea & Coffee Making Facilities Mini-bar', 'Wi-Fi']",196,-
+44,Hyde Park Court Hotel,https://www.hostelworld.com/pwa/hosteldetails.php/Hyde%20Park%20Court%20Hotel/London/5107?from=2023-08-12&to=2023-08-15&guests=2,4.3km,4.2,139,-,"The Hyde Park Court Hotel is a centrally located, family run hotel in a quiet and pleasant square. 
+
+All rooms have an ensuite shower and toilet, tea/coffee making facilities, satellite television, hairdryer and direct dial telephones. Our reception is open 24 hours and a continental breakfast is included in the rates.
+
+Our location allows easy accessibility to all major parts of London whether the purpose of your stay is business or pleasure. Edgware Road tube station offers easy access to London's major tourist attractions. Hyde Park and Oxford St., the heart of London's shopping area are both only a few minutes walking distance away.
+
+Paddington Station is only 2 minutes away. From here, the Heathrow Express takes 15 minutes to get to Heathrow Airport. The underground takes 10 to 20 minutes to get to the West End and most other attractions. 
+
+The local Paddington area offers many restaurants, pubs, clubs and cinemas.
+
+
+Please note this hotel has a 48-hour cancellation policy and your card may be pre-authorised before arrival. 
+
+Please be advised that the property requires the CVV code of the card in order to guarantee the booking and customers will be contacted directly regarding this. Failure to provide it will result in the cancellation of your booking.","['Free Breakfast Free City Maps Free WiFi Free Internet Access', 'Adaptors Cots Available Hair Dryers Safe Deposit Box', 'Internet access Luggage Storage Direct Dial Telephone Fax Service 24 Hour Reception Housekeeping', 'Tea & Coffee Making Facilities']",134,-
+45,All Star Private Studios,https://www.hostelworld.com/pwa/hosteldetails.php/All%20Star%20Private%20Studios/London/24709?from=2023-08-12&to=2023-08-15&guests=2,9.1km,-,-,-,"We offer budget accommodation located in North West London zone 2 (Willesden Green/Kilburn being local underground stations.) 
+
+Shared accommodation. 
+
+If you are looking to meet and socialise with other friendly travellers, you can choose from 6, 8 or 10 bed dorm rooms, mixed or female only! 
+We are not a party hostel, but we offer friendly, relaxed 'homely' accommodation. The hostel has a great atmosphere where you can socialise with other travellers to give you that feel for London life. There's no curfew, so you can discover our beautiful city on your own terms!
+All bedding is provided. Large, fully equipped shared kitchen, comfortable lounge room with plasma T.V, garden area, night caretaker, daily cleaners, no curfew, FREE INTERNET (basic wifi connection and shared computers provided), coin operated washer and dryer on site. 
+A simple breakfast of toast, butter, jam, coffee and tea is provided free of charge for any dorm bookings 
+
+- Please note our youth hostel unfortunately has an age restriction of 18-45 years old. We offer private accommodation for guests outside of this age bracket. 
+
+PRIVATE ACCOMMODATION
+
+Choose from single, double/twin, triple and quad rooms and studios. 
+
+studios have : 
+- Fresh linen
+- Wardrobes
+- Towels 
+- Wooden flooring
+- Bar fridge
+- Heaters
+- FREE WiFi (basic connection) 
+- Access to coin operated washer and dryer on site 
+
+Private rooms are completely private, and you have access to our fully equipped kitchens, and communal bathrooms. 
+Studio apartments are fully equipped with your own private ensuite, and kitchenette, no shared facilities. 
+
+- Please note that studio apartments incur an additional £2 GBP per day, on top of the total rent owed. 
+- Please note that private accommodation is not serviced. We can service rooms/studios upon request at an additional charge. Please contact reception. 
+
+CHECKING IN/PAYMENT 
+Our lovely hostel is based in the trendy North West London Area of Willesden Green and Kilburn..we are only 5mins walk from the tube... 
+
+When you arrive at Number 30 Chatsworth Road NW2 4BS please phone the head office phone number and one of our lovely staff members will come to the hostel and check you in.
+
+This service is only between the hours of 11am to 5:30pm Monday to Saturday. and on Sunday from 11am to 3:30pm 
+
+
+If you are delayed, or plan to arrive outside of these hours, please advise, and we will email details on how to do a 'self check in'
+
+We have a minimum spend of £250 to make payment by credit/debit card. 
+Any payments made by card incur a 5% surcharge.
+Payments by cash/bankers draft are accepted. 
+
+All Hostel bookings include:
+Fresh linen, duvet, pillow, washing powder.
+
+All Private Room bookings include:
+Fresh linen, duvet, pillows, towels, washing powder, welcome pack of tea/coffee, biscuits, just to get you started.
+
+All Studio Apartment bookings include:
+Fresh linen, duvet, pillows, towels, washing powder, 1 roll of toilet paper, washing up liquid, tea towel, shampoo sachet, welcome pack of tea/coffee, biscuits, just to get you started.","['Linen Included Free WiFi Free Internet Access', 'Self-Catering Facilities Cooker Utensils Dryer Cable TV Iron / Ironing Board Safe Deposit Box Microwave Washing Machine', 'Internet access', 'Tea & Coffee Making Facilities']",85,36
+46,Cranbrook Hotel,https://www.hostelworld.com/pwa/hosteldetails.php/Cranbrook%20Hotel/London/10144?from=2023-08-12&to=2023-08-15&guests=2,14.8km,-,-,-,"We are located about twenty minutes by tube from London city centre.
+
+The Cranbrook Hotel is suited close to Valentines Park, which is beautiful and well cared for, covering over 136 acres. There are amenities for tennis, mini-golf, swimming and boating. The park is well known for its old English garden, the Rosary Terrace and its lakes.
+
+The hotel is ideally placed for all public transport a few minutes walk from Ilford Station (twenty minutes to Central London). It is, therefore, an ideal situation for visiting London to see the sights.
+
+Eight bus routes pass the door to Barking, Dagenham, Chigwell and further afield. Park Hotel has been established for over twenty-five years and is run as a family business by the resident proprietors. Free car parking is available in the hotel grounds.
+
+PLEASE NOTE: After booking, the hotel will contact you for your CVC code and address to gaurantee your reservation. This is normal policy, and must be provided to them, otherwise your booking may be cancelled.
+
+We operate a 48 hour cancellation policy","['Free Parking', 'Hot Showers Parking Safe Deposit Box Follows Covid-19 sanitation guidance', 'Luggage Storage 24 Hour Reception', 'Restaurant Tea & Coffee Making Facilities']",246,-
+47,Palmers Lodge - Swiss Cottage,https://www.hostelworld.com/pwa/hosteldetails.php/Palmers%20Lodge%20-%20Swiss%20Cottage/London/14348?from=2023-08-12&to=2023-08-15&guests=2,6.5km,8.6,15661,Fabulous,"Whether you're a backpacker, flash-packer or a budget traveller, Palmers Lodge has everything you need for one of the most unique experiences in London! Combining the grand charm of our historic building constucted in 1882, our friendly team and accessible location, Palmers Lodge has it all. 
+
+Swiss Cottage boasts not only a fantastic London city location and building but our services are unbeatable! We have a 24 hour reception so you can be assured we are always there when you need us, you can meet other like-minded travellers downstairs at Swiss Bar - taking advantage of our selections of drinks and snacks.
+
+An added bonus is that beds are pre-made and come with linen all for free, so the late arriving lodger can jump straight into bed, or the bar! We also offer free Wi-Fi throughout the hostel so you can stay in touch with the rest of the world and explore what's on in London! 
+
+It is easy to forget when you stay at Swiss Cottage that there is a vibrant city just outside waiting for you! We are close to the underground (tube to the locals) so you can be in any of London's hotspots within minutes! If it's shopping you're looking for, the tube will take you directly from Swiss Cottage Station to the centre of Oxford Street (15 mins) or you can shop till you drop at Europe's largest shopping centre Westfield. You could also have a drink or two in Leicester Square (15 mins) take a spin on the London Eye (20 mins) or spot Kate and William at Buckingham Palace (10 mins) all this and more with the tube from Swiss Cottage Station or Finchley Road only 200 metres away! 
+
+Award winning Hostel, winning or being a finalist for “Best Customer Service” and 'Best UK Youth Accommodation' (2012, 2013, 2015) by the British Education Travel Association, among our several other awards. 
+
+Just some of our facilities and services:
+▪ 24 hour reception and staff
+▪ Check in time 2 pm
+▪ Check out time 10 am
+▪ Key-card door access
+▪ Free safes and luggage lockers in every room
+▪ En-suite rooms available
+▪ Coach and car parking available (£10.00)
+▪ Full CCTV coverage for added security
+▪ Free linen and beds which are pre-made
+▪ Bar and late night lounge areas
+▪ Reading, conservatory and quiet rooms
+▪ Lift
+▪ Large selection of rooms including double, twin and dormitory rooms
+▪ Heavy duty laptop and valuables safes at reception
+▪ Ground floor reception and rooms
+▪ Group and individual luggage storage for hire
+▪ Photocopy facilities
+▪ Free Wi-Fi and PC access
+▪ Washing and drying facilities available
+▪ Theatre and attraction ticket sales at reception
+▪ Souvenirs and toiletries sales at reception
+
+Note that this property has a maximum stay of 14 nights (with a 6 months gap between any new reservations).
+
+All under 18's must be accompanied by an adult and have a written approval from parents with a copy of their passport or I.D. If staying in a single sex dorm room the adult and child must be the same gender. Please note under 16's are not allowed to stay in dorm rooms. You must book a private room.
+
+Please note that reservations for the night of the 31st December will be subject to a no-cancellation policy.
+
+This property has a 24 HR cancellation policy. Bookings will need to be cancelled via email by 2 pm of the previous day the guest is supposed to arrive. 
+Failure to cancel within this time will result in a cancellation charge equal to the first night of your stay. 
+
+Reservations for any Guests that fail to arrive for check in between 2pm on their Date of Arrival, up until 5am the next day will be subject to complete cancellation of their reservation and also subject to a one-night cancellation charge unless the property have otherwise been informed of a late/delayed arrival and have also approved an amended check-in time and date. 
+
+Guests are reminded that once they have paid on the day of check-in, no refunds will be issued.
+
+Palmers Lodge reserve the right to preauthorise Guests cards for prior to arrival. During times of extremely high demand, all reservations are required to have been made with a valid, chargeable card. Any reservations without a valid, chargeable card may be cancelled by Palmers Lodge at any given time.","['Linen Included Free City Maps Free WiFi Free Internet Access', 'Security Lockers Key Card Access Common Room Elevator Bicycle Parking BBQ Breakfast Not Included Adaptors Book Exchange Hot Showers Fridge/Freezer Dryer Cable TV Outdoor Terrace Reading Light Hair Dryers For Hire Parking Hair Dryers Ceiling fan Safe Deposit Box Washing Machine Flexible NRR Follows Covid-19 sanitation guidance', 'Internet access Laundry Facilities Towels for hire Luggage Storage 24 Hour Reception Tours/Travel Desk ATM Postal Service 24 Hour Security Housekeeping', 'Restaurant Bar Meals Available Vending Machines Cafe Tea & Coffee Making Facilities', ""PlayStation DVD's Board Games Games Room Pool Table Wi-Fi""]",2,684
+48,Budget London Apartments,https://www.hostelworld.com/pwa/hosteldetails.php/Budget%20London%20Apartments/London/11493?from=2023-08-12&to=2023-08-15&guests=2,8.2km,4.7,366,-,"We offer the best budget accommodation located in North West London zone 2 (Willesden Green/Kilburn being local underground stations.) 
+
+SHARED ACCOMMODATION
+
+If you are looking to meet and socialise with other friendly travellers, you can choose from 4, 6, 8 or 10 bed dorm rooms, mixed or female only! 
+We are not a party hostel, but we offer friendly, relaxed homely accommodation. The hostel has a great atmosphere where you can socialise with other travellers to give you that feel for London life. There's no curfew, so you can discover our beautiful city on your own terms!
+All bedding is provided. Large, fully equipped shared kitchen, comfortable lounge room with plasma T.V, garden area, night caretaker, daily cleaners, no curfew, FREE INTERNET (basic wifi connection and shared computers provided), coin operated washer and dryer on site. 
+
+Please note our youth hostel unfortunately has an age restriction of 18-45 years old. We offer private accommodation for guests outside of this age bracket. 
+
+PRIVATE ACCOMMODATION
+
+Choose from single, double/twin, triple and quad rooms and studios. 
+
+All rooms and studios have : 
+- Fresh linen
+- Colour TV
+- Wardrobes
+- Towels 
+- Welcome pack
+- Wooden floorboards 
+- Bar fridge
+- Heaters
+- FREE WIFI (basic connection) 
+- Access to coin operated washer and dryer on site 
+
+Private rooms are completely private, and you have access to our fully equipped kitchens, and communal bathrooms. 
+Studio apartments are fully equipped with your own private ensuite, and kitchenette, no shared facilities. 
+
+Please note that studio apartments incur an additional 2 per day, on top of the total rent owed. 
+Please note that private accommodation is not serviced. We can service rooms/studios upon request at an additional charge. Please contact reception. 
+
+CHECKING IN/PAYMENT 
+
+
+Monday - Saturday : 11am - 5:30pm
+Sunday : 11am - 3:30pm 
+If you are delayed, or plan to arrive outside of these hours, please advise, and we will email details on how to do a self check in.
+
+We have a minimum spend of 250 to make payment by credit/debit card. 
+Any payments made by card incur a 5% surcharge.
+Payments by cash/bankers draft are accepted.","['Linen Included Free WiFi Free Internet Access', 'Self-Catering Facilities Cable TV Washing Machine Towels Not Included', 'Internet access']",95,36
+49,The London Home Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/The%20London%20Home%20Hostel/London/80690?from=2023-08-12&to=2023-08-15&guests=2,8.2km,4.9,268,-,"If you are looking to meet and socialise with other friendly travellers, you can choose from 6, 8, 10,12 bed dorm rooms, mixed or female only! The London Home Hostel is a home away from home for backpackers, travellers or someone who just wants to have a chilled and cosy place to stay with all the comforts of home. 
+
+We are not a party hostel, but we offer friendly, relaxed 'homely' accommodation. The hostel has a great atmosphere where you can socialise with other travellers to give you that feel for London life. There's no curfew, so you can discover our beautiful city on your own terms!
+
+All bedding is provided. Large, fully equipped shared kitchen, comfortable lounge room with plasma T.V, garden area, night caretaker, daily cleaners, no curfew, FREE INTERNET (basic WiFi connection and shared computers provided), coin operated washer and dryer on site.
+
+Please note:
+Check-in from Monday - Saturday : 11am - 5:45pm. Sunday 11am - 3:45pm
+Check- out by 11:00
+Cancellation policy is 1 day in advance
+
+We accept payment by cash and credit card. We have a minimum spend of £250 to make payment by credit/debit card.
+Any payments made by card incur a 5% surcharge.
+Payments by cash/bankers draft are accepted
+
+Taxes are included","['Linen Included Free WiFi Free Internet Access', 'Security Lockers Common Room Hot Showers Self-Catering Facilities Cable TV Washing Machine', 'Internet access Laundry Facilities', 'Tea & Coffee Making Facilities']",89,32
+50,London365 Hostel,https://www.hostelworld.com/pwa/hosteldetails.php/London365%20Hostel/London/61114?from=2023-08-12&to=2023-08-15&guests=2,8.2km,4.2,235,-,"At London365 Hostel We offer budget accommodation located in North West London zone 2 (Willesden Green/Kilburn local underground stations.) 
+
+If you are looking to meet and socialise with other friendly travellers, you can choose from 10, 12 and 14 bed dorm rooms, mixed or female only! 
+
+We are not a party hostel, but we offer friendly, relaxed 'homely' accommodation. 
+
+The hostel has a great atmosphere where you can socialise with other travellers to give you that feel for London life. There's no curfew, so you can discover our beautiful city on your own terms!
+
+All bedding is provided. Large, fully equipped shared kitchen, comfortable lounge room with plasma T.V, garden area, night caretaker, daily cleaners, no curfew, FREE INTERNET (basic wifi connection and shared computers provided), coin operated washer and dryer on site. 
+
+Our lovely hostel is based in the trendy North West London Area of Willesden Green and Kilburn..we are only 5mins walk from the tube... 
+
+
+Check in hours are 12pm to 5:30pm Monday to Saturday. and on Sunday from 12pm to 3:30pm 
+If you arrive outside the check in times then you must check your email address that you used to book this hostel and there will be details of how to check yourself in and pick your keys up... Please phone the office to find out more information... 
+
+Please note:
+
+Minimum stay : 3 nights
+Cancellation policy : 24h
+Check in : 12.00
+Check out : 10.00
+
+Taxes included","['Linen Included Free WiFi Free Internet Access', 'Security Lockers Common Room Meeting Rooms Hot Showers Self-Catering Facilities Jobs Board Washing Machine', 'Internet access Laundry Facilities Housekeeping', 'Tea & Coffee Making Facilities']",95,33
