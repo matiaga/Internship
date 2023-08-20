@@ -1,0 +1,644 @@
+,Dataset name,Data type,Task,Attribute type,No of instances,No of attribute,Date Donated,Year
+0,Iris,Multivariate,Classification,Real,150,4,6/30/1988,1988
+1,Heart Disease,Multivariate,Classification,"Categorical, Integer, Real",303,13,6/30/1988,1988
+2,Adult,Multivariate,Classification,"Categorical, Integer",84K,14,4/30/1996,1996
+3,Dry Bean Dataset,Multivariate,Classification,"Integer, Real",61K,16,9/13/2020,2020
+4,Diabetes,,,"Categorical, Integer",-,20,N/A,-
+5,Wine,Multivariate,Classification,"Integer, Real",178,13,6/30/1991,1991
+6,Breast Cancer Wisconsin (Diagnostic),Multivariate,Classification,Real,569,30,10/31/1995,1995
+7,Car Evaluation,Multivariate,Classification,Categorical,73K,6,5/31/1997,1997
+8,Rice (Cammeo and Osmancik),Multivariate,Classification,Real,81K,8,10/5/2019,2019
+9,Mushroom,Multivariate,Classification,Categorical,12K,22,4/26/1987,1987
+10,Abalone,Multivariate,Classification,"Categorical, Integer, Real",18K,8,11/30/1995,1995
+11,Breast Cancer,Multivariate,Classification,Categorical,286,9,7/10/1988,1988
+12,Statlog (German Credit Data),Multivariate,Classification,"Categorical, Integer",1K,20,11/16/1994,1994
+13,Wine Quality,Multivariate,"Classification, Regression",Real,9K,12,10/6/2009,2009
+14,Glass Identification,Multivariate,Classification,Real,214,9,8/31/1987,1987
+15,Census Income,Multivariate,Classification,"Categorical, Integer",84K,14,4/30/1996,1996
+16,Breast Cancer Wisconsin (Original),Multivariate,Classification,Integer,699,9,7/14/1992,1992
+17,Auto MPG,Multivariate,Regression,"Real, Categorical, Integer",398,7,7/6/1993,1993
+18,Automobile,Multivariate,Regression,"Categorical, Integer, Real",205,25,5/18/1987,1987
+19,Bank Marketing,Multivariate,Classification,"Categorical, Integer",21K,17,2/13/2012,2012
+20,Thyroid Disease,"Multivariate, Domain-Theory",Classification,"Categorical, Real",2K,5,12/31/1986,1986
+21,Spambase,Multivariate,Classification,"Integer, Real",6K,57,6/30/1999,1999
+22,Predict students' dropout and academic success,Tabular,Classification,N/A,42K,36,12/12/2021,2021
+23,Optical Recognition of Handwritten Digits,Multivariate,Classification,Integer,62K,64,6/30/1998,1998
+24,Credit Approval,Multivariate,Classification,"Categorical, Integer, Real",690,15,N/A,-
+0,Zoo,Multivariate,Classification,"Categorical, Integer",101,16,5/14/1990,1990
+1,Liver Disorders,,,"Categorical, Integer, Real",345,5,5/14/1990,1990
+2,Student Performance,Multivariate,"Classification, Regression",Integer,649,33,11/26/2014,2014
+3,Lung Cancer,Multivariate,Classification,Integer,32,56,4/30/1992,1992
+4,Ionosphere,Multivariate,Classification,"Integer, Real",351,34,12/31/1988,1988
+5,Letter Recognition,Multivariate,Classification,Integer,20K,16,12/31/1990,1990
+6,Internet Advertisements,Multivariate,Classification,"Categorical, Integer, Real",28K,-,6/30/1998,1998
+7,Online Retail II,"Multivariate, Sequential, Time-Series, Text","Classification, Regression, Clustering","Integer, Real",07M,8,9/20/2019,2019
+8,Pen-Based Recognition of Handwritten Digits,Multivariate,Classification,Integer,99K,16,6/30/1998,1998
+9,Congressional Voting Records,Multivariate,Classification,Categorical,435,16,4/26/1987,1987
+10,Covertype,Multivariate,Classification,"Categorical, Integer",01K,54,7/31/1998,1998
+11,Online Retail,"Multivariate, Sequential, Time-Series","Classification, Clustering","Integer, Real",91K,8,11/5/2015,2015
+12,Image Segmentation,Multivariate,Classification,Real,31K,19,10/31/1990,1990
+13,Hepatitis,Multivariate,Classification,"Categorical, Integer, Real",155,19,10/31/1988,1988
+14,Yeast,Multivariate,Classification,Real,48K,8,8/31/1996,1996
+15,Computer Hardware,Multivariate,Regression,Integer,209,9,9/30/1987,1987
+16,Tic-Tac-Toe Endgame,Multivariate,Classification,Categorical,958,9,8/18/1991,1991
+17,default of credit card clients,Multivariate,Classification,"Integer, Real",30K,24,1/25/2016,2016
+18,"Connectionist Bench (Sonar, Mines vs. Rocks)",Multivariate,Classification,Real,208,60,N/A,-
+19,Nursery,Multivariate,Classification,Categorical,96K,8,5/31/1997,1997
+20,Statlog (Australian Credit Approval),Multivariate,Classification,"Categorical, Integer, Real",690,14,N/A,-
+21,Reuters-21578 Text Categorization Collection,Text,Classification,Categorical,58K,5,9/25/1997,1997
+22,Breast Cancer Wisconsin (Prognostic),Multivariate,"Classification, Regression",Real,198,34,11/30/1995,1995
+23,Soybean (Large),Multivariate,Classification,Categorical,307,35,7/10/1988,1988
+24,Arrhythmia,Multivariate,Classification,"Categorical, Integer, Real",452,279,12/31/1997,1997
+0,Air Quality,"Multivariate, Time-Series",Regression,Real,36K,15,3/22/2016,2016
+1,Online Shoppers Purchasing Intention Dataset,Multivariate,"Classification, Clustering","Integer, Real",33K,18,8/30/2018,2018
+2,Balance Scale,Multivariate,Classification,Categorical,625,4,4/21/1994,1994
+3,Statlog Project,,,N/A,-,-,9/30/1992,1992
+4,EEG Database,,,"Categorical, Integer, Real",122,4,10/12/1999,1999
+5,Statlog (Landsat Satellite),Multivariate,Classification,Integer,44K,36,2/12/1993,1993
+6,Statlog (Shuttle),Multivariate,Classification,Integer,58K,8,N/A,-
+7,Soybean (Small),Multivariate,Classification,Categorical,47,35,12/31/1986,1986
+8,Statlog (Heart),Multivariate,Classification,"Categorical, Real",270,13,N/A,-
+9,Human Activity Recognition Using Smartphones,"Multivariate, Time-Series","Classification, Clustering",,3K,561,12/9/2012,2012
+10,ISOLET,Multivariate,Classification,Real,8K,617,9/11/1994,1994
+11,Molecular Biology (Promoter Gene Sequences),"Sequential, Domain-Theory",Classification,Categorical,106,58,6/29/1990,1990
+12,Statlog (Vehicle Silhouettes),Multivariate,Classification,Integer,946,18,N/A,-
+13,Waveform Database Generator (Version 1),"Multivariate, Data-Generator",Classification,Real,5K,21,11/9/1988,1988
+14,Ecoli,Multivariate,Classification,Real,336,8,8/31/1996,1996
+15,Dermatology,Multivariate,Classification,"Categorical, Integer",366,33,12/31/1997,1997
+16,Insurance Company Benchmark (COIL 2000),Multivariate,"Regression, Description","Categorical, Integer",9K,86,7/2/2000,2000
+17,Individual household electric power consumption,"Multivariate, Time-Series","Regression, Clustering",Real,08M,9,8/29/2012,2012
+18,Protein Data,,,N/A,-,-,N/A,-
+19,Anonymous Microsoft Web Data,null,Recommender-Systems,Categorical,71K,294,10/31/1998,1998
+20,MONK's Problems,Multivariate,Classification,Categorical,432,6,9/30/1992,1992
+21,Molecular Biology (Splice-junction Gene Sequences),"Sequential, Domain-Theory",Classification,Categorical,19K,61,12/31/1991,1991
+22,Solar Flare,Multivariate,Regression,Categorical,39K,10,2/28/1989,1989
+23,Contraceptive Method Choice,Multivariate,Classification,"Categorical, Integer",47K,9,7/6/1997,1997
+24,Estimation of obesity levels based on eating habits and physical condition,Multivariate,"Classification, Regression, Clustering",Integer,11K,17,8/26/2019,2019
+0,Movie,,,N/A,10K,-,7/6/1999,1999
+1,Musk (Version 1),Multivariate,Classification,Integer,476,168,9/11/1994,1994
+2,Flags,Multivariate,Classification,"Categorical, Integer",194,30,5/14/1990,1990
+3,Lenses,Multivariate,Classification,Categorical,24,4,7/31/1990,1990
+4,CMU Face Images,Image,Classification,Integer,640,-,6/23/1999,1999
+5,Bike Sharing Dataset,Univariate,Regression,"Integer, Real",39K,16,12/19/2013,2013
+6,Haberman's Survival,Multivariate,Classification,Integer,306,3,3/3/1999,1999
+7,Servo,Multivariate,Regression,"Categorical, Integer",167,4,4/30/1993,1993
+8,MAGIC Gamma Telescope,Multivariate,Classification,Real,02K,11,4/30/2007,2007
+9,SMS Spam Collection,"Multivariate, Text, Domain-Theory","Classification, Clustering",Real,57K,-,6/21/2012,2012
+10,KDD Cup 1999 Data,Multivariate,Classification,"Categorical, Integer",4M,42,12/31/1998,1998
+11,Horse Colic,Multivariate,Classification,"Categorical, Integer, Real",368,27,8/5/1989,1989
+12,SPECT Heart,Multivariate,Classification,Categorical,267,22,9/30/2001,2001
+13,Forest Fires,Multivariate,Regression,Real,517,13,2/28/2008,2008
+14,Chess (King-Rook vs. King-Pawn),Multivariate,Classification,Categorical,2K,36,7/31/1989,1989
+15,Diabetes 130-US hospitals for years 1999-2008,Multivariate,"Classification, Clustering","Categorical, Integer",77K,47,5/2/2014,2014
+16,Census-Income (KDD),Multivariate,Classification,"Categorical, Integer",29K,40,3/6/2000,2000
+17,Primary Tumor,Multivariate,Classification,Categorical,339,17,10/31/1988,1988
+18,Echocardiogram,Multivariate,Classification,"Categorical, Integer, Real",132,12,2/27/1989,1989
+19,US Census Data (1990),Multivariate,Clustering,Categorical,46M,68,N/A,-
+20,Multiple Features,Multivariate,Classification,"Integer, Real",2K,649,N/A,-
+21,Heart failure clinical records,Multivariate,"Classification, Regression, Clustering","Integer, Real",299,13,2/4/2020,2020
+22,Annealing,Multivariate,Classification,"Categorical, Integer, Real",798,38,N/A,-
+23,Balloons,Multivariate,Classification,Categorical,16,4,N/A,-
+24,Bach Chorales,,,"Categorical, Integer",100,6,N/A,-
+0,Apartment for rent classified,Multivariate,"Classification, Regression, Clustering",N/A,10K,22,12/25/2019,2019
+1,NASA Flood Extent Detection,Image,Other,,50K,-,1/6/2023,2023
+2,Lymphography,Multivariate,Classification,Categorical,148,18,10/31/1988,1988
+3,Chess (King-Rook vs. King),Multivariate,Classification,"Categorical, Integer",06K,6,5/31/1994,1994
+4,Challenger USA Space Shuttle O-Ring,Multivariate,Regression,Integer,23,4,8/4/1993,1993
+5,Japanese Credit Screening,"Multivariate, Domain-Theory",Classification,"Categorical, Real, Integer",125,-,3/18/1992,1992
+6,Cloud,,,Real,02K,10,8/2/1989,1989
+7,Labor Relations,,,"Categorical, Integer, Real",57,16,10/31/1988,1988
+8,Real estate valuation data set,Multivariate,Regression,"Integer, Real",414,7,8/17/2018,2018
+9,Glioma Grading Clinical and Mutation Features Dataset,"Tabular, Multivariate","Classification, Other","Real, Categorical, Integer",839,23,12/13/2022,2022
+10,Cylinder Bands,Multivariate,Classification,"Categorical, Integer, Real",512,39,7/31/1995,1995
+11,Audiology (Original),Multivariate,Classification,Categorical,226,-,12/2/1987,1987
+12,MetroPT-3 Dataset,"Tabular, Multivariate, Time-Series",Classification,Real,52M,15,3/21/2023,2023
+13,Connect-4,"Multivariate, Spatial",Classification,Categorical,56K,42,2/3/1995,1995
+14,seeds,Multivariate,"Classification, Clustering",Real,210,7,9/28/2012,2012
+15,Australian Sign Language signs,"Multivariate, Time-Series",Classification,"Categorical, Real",65K,15,4/19/1999,1999
+16,Chess (King-Rook vs. King-Knight),"Multivariate, Data-Generator",Classification,"Categorical, Integer",-,22,10/2/1988,1988
+17,Water Quality Prediction,Other,Regression,N/A,705,-,5/14/2022,2022
+18,Audiology (Standardized),Multivariate,Classification,Categorical,226,69,8/17/1992,1992
+19,Wholesale customers,Multivariate,"Classification, Clustering",Integer,440,8,3/30/2014,2014
+20,Traffic Flow Forecasting,Multivariate,Regression,N/A,1K,-,6/17/2021,2021
+21,LED Display Domain,"Multivariate, Data-Generator",Classification,Categorical,-,7,11/9/1988,1988
+22,Corel Image Features,,,Real,04K,89,6/30/1999,1999
+23,Waveform Database Generator (Version 2),"Multivariate, Data-Generator",Classification,Real,5K,40,11/9/1988,1988
+24,Drug Review Dataset (Drugs.com),"Multivariate, Text","Classification, Regression, Clustering",Integer,06K,6,10/3/2018,2018
+0,Page Blocks Classification,Multivariate,Classification,"Integer, Real",47K,10,6/30/1995,1995
+1,Land Mines,"Tabular, Multivariate, Other","Classification, Clustering","Real, Integer",338,4,12/19/2022,2022
+2,E. Coli Genes,,,N/A,-,-,7/13/2001,2001
+3,DeFungi,Image,Classification,Real,11K,-,1/28/2023,2023
+4,Energy efficiency,Multivariate,"Classification, Regression","Integer, Real",768,8,11/29/2012,2012
+5,Early stage diabetes risk prediction dataset.,Multivariate,Classification,N/A,520,17,7/11/2020,2020
+6,Molecular Biology (Protein Secondary Structure),Sequential,Classification,Categorical,128,-,N/A,-
+7,Post-Operative Patient,Multivariate,Classification,"Categorical, Integer",90,8,5/31/1993,1993
+8,Seoul Bike Sharing Demand,Multivariate,Regression,"Integer, Real",76K,14,2/29/2020,2020
+9,AI4I 2020 Predictive Maintenance Dataset,"Multivariate, Time-Series","Classification, Regression, Causal-Discovery",Real,10K,14,8/29/2020,2020
+10,Statlog (Image Segmentation),Multivariate,Classification,Real,31K,19,10/31/1990,1990
+11,HAR70+,"Multivariate, Time-Series",Classification,Real,26M,6,2/22/2023,2023
+12,Online News Popularity,Multivariate,"Classification, Regression","Integer, Real",8K,61,5/30/2015,2015
+13,Connectionist Bench (Vowel Recognition - Deterding Data),null,Classification,Real,528,10,N/A,-
+14,Musk (Version 2),Multivariate,Classification,Integer,6K,168,9/11/1994,1994
+15,Hayes-Roth,Multivariate,Classification,Categorical,160,5,2/28/1989,1989
+16,El Nino,,,"Integer, Real",08K,12,6/29/1999,1999
+17,Concrete Compressive Strength,Multivariate,Regression,Real,03K,9,8/2/2007,2007
+18,Productivity Prediction of Garment Employees,"Multivariate, Time-Series","Classification, Regression","Integer, Real",2K,15,8/2/2020,2020
+19,KDD Cup 1998 Data,Multivariate,Regression,"Categorical, Integer",78K,481,7/19/1998,1998
+20,DARWIN,Tabular,Classification,N/A,174,451,5/11/2022,2022
+21,Parkinsons,Multivariate,Classification,Real,197,23,6/25/2008,2008
+22,Entree Chicago Recommendation Data,"Transactional, Sequential",Recommender-Systems,Categorical,67K,-,3/8/2000,2000
+23,SPECTF Heart,Multivariate,Classification,Integer,267,44,9/30/2001,2001
+24,Smartphone Dataset for anomaly detection in Crowds.,Time-Series,Classification,N/A,22K,-,7/4/2021,2021
+0,Shuttle Landing Control,Multivariate,Classification,Categorical,15,6,10/31/1988,1988
+1,Pittsburgh Bridges,Multivariate,Classification,"Categorical, Integer",108,13,7/31/1990,1990
+2,banknote authentication,Multivariate,Classification,Real,37K,5,4/15/2013,2013
+3,Australian Sign Language signs (High Quality),"Multivariate, Time-Series",Classification,Real,57K,22,2/25/2002,2002
+4,ElectricityLoadDiagrams20112014,Time-Series,"Regression, Clustering",Real,370,-,3/12/2015,2015
+5,Absenteeism at work,"Multivariate, Time-Series","Classification, Clustering","Integer, Real",740,21,4/4/2018,2018
+6,Trains,Multivariate,Classification,Categorical,10,32,6/23/1994,1994
+7,HARTH,"Multivariate, Time-Series",Classification,Real,46M,8,2/20/2023,2023
+8,clickstream data for online shopping,"Multivariate, Sequential","Classification, Regression, Clustering","Integer, Real",47K,14,12/8/2019,2019
+9,Economic Sanctions,,,N/A,-,-,N/A,-
+10,WESAD (Wearable Stress and Affect Detection),"Multivariate, Time-Series","Classification, Regression",Real,63M,12,9/13/2018,2018
+11,Traffic Flow Forecasting,Other,Regression,N/A,1K,-,5/14/2022,2022
+12,Appliances energy prediction,"Multivariate, Time-Series",Regression,Real,74K,29,2/14/2017,2017
+13,Phishing Websites,null,Classification,Integer,46K,30,3/25/2015,2015
+14,Syskill and Webert Web Page Ratings,"Multivariate, Text",Classification,Categorical,332,5,10/19/1998,1998
+15,Mobile Robots,,,"Categorical, Integer, Real",-,-,7/14/1995,1995
+16,IPUMS Census Database,,,"Categorical, Integer",93K,61,11/8/1999,1999
+17,Dow Jones Index,Time-Series,"Classification, Clustering","Integer, Real",750,16,10/22/2014,2014
+18,Chronic_Kidney_Disease,Multivariate,Classification,Real,400,25,7/2/2015,2015
+19,Communities and Crime,Multivariate,Regression,Real,99K,128,7/12/2009,2009
+20,UNIX User Data,,,N/A,-,-,N/A,-
+21,Turkish User Review Dataset,Text,Other,,06K,-,1/5/2023,2023
+22,Drug consumption (quantified),Multivariate,Classification,Real,89K,32,10/16/2016,2016
+23,Combined Cycle Power Plant,Multivariate,Regression,Real,57K,4,3/25/2014,2014
+24,Taiwanese Bankruptcy Prediction,Multivariate,Classification,Integer,82K,96,6/27/2020,2020
+0,Sentiment Labelled Sentences,Text,Classification,,3K,-,5/29/2015,2015
+1,Chess (Domain Theories),,,N/A,-,-,N/A,-
+2,Iranian Churn Dataset,Multivariate,"Classification, Regression",Integer,15K,13,4/8/2020,2020
+3,Bar Crawl: Detecting Heavy Drinking,"Multivariate, Time-Series","Classification, Regression",Real,06M,15,2/23/2020,2020
+4,Beijing Multi-Site Air-Quality Data,"Multivariate, Time-Series",Regression,"Integer, Real",77K,18,9/19/2019,2019
+5,Multivariate Gait Data,"Sequential, Multivariate, Time-Series","Classification, Regression, Clustering","Real, Categorical, Integer",8K,7,12/14/2022,2022
+6,Hierarchical Sales Data,Time-Series,"Clustering, Other",N/A,8K,237,7/2/2021,2021
+7,Polish companies bankruptcy data,Multivariate,Classification,Real,5K,64,4/10/2016,2016
+8,Beijing PM2.5 Data,"Multivariate, Time-Series",Regression,"Integer, Real",82K,13,1/18/2017,2017
+9,Sales_Transactions_Dataset_Weekly,"Multivariate, Time-Series",Clustering,"Integer, Real",811,53,7/15/2017,2017
+10,Poker Hand,Multivariate,Classification,"Categorical, Integer",03M,11,12/31/2006,2006
+11,Tennis Major Tournament Match Statistics,Multivariate,"Classification, Regression, Clustering","Integer, Real",127,42,5/31/2014,2014
+12,Travel Reviews,"Multivariate, Text","Classification, Clustering",Real,980,11,12/18/2018,2018
+13,South German Credit (UPDATE),Multivariate,"Classification, Regression, Clustering","Integer, Real",1K,21,6/19/2020,2020
+14,ImageNet,Image,Classification,N/A,14M,-,11/26/2021,2021
+15,MNIST Database of Handwritten Digits,Image,Classification,N/A,70K,-,10/16/2021,2021
+16,Cervical cancer (Risk Factors),Multivariate,Classification,"Integer, Real",858,36,3/2/2017,2017
+17,Metro Interstate Traffic Volume,"Multivariate, Sequential, Time-Series",Regression,"Integer, Real",2K,9,5/6/2019,2019
+18,Fertility,Multivariate,"Classification, Regression",Real,100,10,1/16/2013,2013
+19,SoDA,Time-Series,Classification,N/A,8K,-,6/19/2022,2022
+20,Physical Therapy Exercises Dataset,Time-Series,"Classification, Clustering, Other",,88K,-,5/7/2022,2022
+21,Daily Demand Forecasting Orders,Time-Series,Regression,Integer,60,13,11/20/2017,2017
+22,HCV data,Multivariate,"Classification, Clustering","Integer, Real",615,12,6/9/2020,2020
+23,Breast Cancer Coimbra,Multivariate,Classification,Integer,116,10,3/5/2018,2018
+24,Parkinson's Disease Classification,Multivariate,Classification,"Integer, Real",756,754,11/4/2018,2018
+0,Parkinsons Telemonitoring,Multivariate,Regression,"Integer, Real",88K,26,10/28/2009,2009
+1,Myocardial infarction complications,Multivariate,Classification,Real,7K,111,12/8/2020,2020
+2,Bosch CNC Machining Dataset,"Multivariate, Time-Series","Classification, Clustering",Real,7K,3,11/9/2022,2022
+3,Divorce Predictors data set,"Multivariate, Univariate",Classification,Integer,170,54,7/23/2019,2019
+4,Educational Process Mining (EPM): A Learning Analytics Data Set,"Multivariate, Sequential, Time-Series","Classification, Regression, Clustering",Integer,32K,13,9/23/2015,2015
+5,Cardiotocography,Multivariate,Classification,Real,13K,23,9/6/2010,2010
+6,News Popularity in Multiple Social Media Platforms,"Multivariate, Time-Series, Text",Regression,"Integer, Real",24K,11,2/19/2018,2018
+7,HIGGS,null,Classification,Real,11M,28,2/11/2014,2014
+8,Facebook metrics,Multivariate,Regression,Integer,500,19,8/4/2016,2016
+9,Palmer penguins,Tabular,Classification,N/A,344,-,11/14/2021,2021
+10,ISTANBUL STOCK EXCHANGE,"Multivariate, Univariate, Time-Series","Classification, Regression",Real,536,8,5/31/2013,2013
+11,Toxicity,Tabular,Classification,N/A,171,-,5/4/2022,2022
+12,in-vehicle coupon recommendation,Multivariate,Classification,N/A,68K,23,9/14/2020,2020
+13,Cisco Secure Workload Networks of Computing Hosts,"Sequential, Text, Other","Clustering, Other",N/A,1M,-,5/15/2022,2022
+14,NATICUSdroid (Android Permissions) Dataset,Tabular,Classification,N/A,33K,86,4/24/2022,2022
+15,Stock portfolio performance,Multivariate,Regression,Real,315,12,4/21/2016,2016
+16,Website Phishing,Multivariate,Classification,Integer,35K,10,11/1/2016,2016
+17,Blood Transfusion Service Center,Multivariate,Classification,Real,748,5,10/2/2008,2008
+18,Gender by Name,Text,"Classification, Clustering",N/A,27K,4,3/14/2020,2020
+19,Daily and Sports Activities,"Multivariate, Time-Series","Classification, Clustering",Real,12K,-,7/7/2013,2013
+20,gene expression cancer RNA-Seq,Multivariate,"Classification, Clustering",Real,801,-,6/8/2016,2016
+21,accelerometer_gyro_mobile_phone_dataset,"Tabular, Sequential, Multivariate, Time-Series",Classification,"Real, Categorical",99K,8,11/24/2022,2022
+22,detection_of_IoT_botnet_attacks_N_BaIoT,"Multivariate, Sequential","Classification, Clustering",Real,06M,115,3/18/2018,2018
+23,MHEALTH Dataset,"Multivariate, Time-Series",Classification,Real,120,23,12/6/2014,2014
+24,Amazon Access Samples,"Time-Series, Domain-Theory","Regression, Clustering, Causal-Discovery",,30K,-,9/12/2011,2011
+0,Pedestrian in Traffic Dataset,"Multivariate, Sequential, Time-Series","Classification, Regression, Causal-Discovery",Real,76K,14,7/3/2019,2019
+1,ILPD (Indian Liver Patient Dataset),Multivariate,Classification,"Integer, Real",583,10,5/20/2012,2012
+2,Algerian Forest Fires Dataset,Multivariate,"Classification, Regression",Real,244,12,10/21/2019,2019
+3,Detect Malware Types,"Multivariate, Time-Series, Text",Classification,N/A,11K,280,6/2/2019,2019
+4,Gas Sensor Array Drift Dataset at Different Concentrations,"Multivariate, Time-Series","Classification, Regression, Clustering, Causa",Real,91K,129,10/22/2013,2013
+5,Synchronous Machine Data Set,Multivariate,Regression,Real,557,5,4/20/2021,2021
+6,Mammographic Mass,Multivariate,Classification,Integer,961,6,10/28/2007,2007
+7,FMA: A Dataset For Music Analysis,"Multivariate, Time-Series","Classification, Clustering",Real,57K,518,5/23/2017,2017
+8,Autism Screening Adult,null,Classification,Integer,704,21,12/23/2017,2017
+9,Basketball dataset,Time-Series,Classification,Integer,10K,7,7/1/2019,2019
+10,South German Credit,Multivariate,"Classification, Regression, Clustering","Integer, Real",1K,21,11/28/2019,2019
+11,Student Academics Performance,Multivariate,Classification,,300,22,9/15/2018,2018
+12,Kitsune Network Attack Dataset,"Multivariate, Sequential, Time-Series","Classification, Clustering, Causal-Discovery",Real,17M,7,10/15/2019,2019
+13,Superconductivty Data,Multivariate,Regression,Real,26K,81,10/11/2018,2018
+14,Electrical Grid Stability Simulated Data,Multivariate,"Classification, Regression",Real,10K,14,11/15/2018,2018
+15,EEG Eye State,"Multivariate, Sequential, Time-Series",Classification,"Integer, Real",98K,15,6/9/2013,2013
+16,COVID-19 Surveillance,Multivariate,Classification,N/A,14,7,4/23/2020,2020
+17,Drug Review Dataset (Druglib.com),"Multivariate, Text","Classification, Regression, Clustering",Integer,14K,8,10/1/2018,2018
+18,PAMAP2 Physical Activity Monitoring,"Multivariate, Time-Series",Classification,Real,85M,52,8/5/2012,2012
+19,Auction Verification,Tabular,"Classification, Regression",N/A,04K,7,2/28/2022,2022
+20,Human Activity Recognition from Continuous Ambient Sensor Data,"Multivariate, Sequential, Time-Series",Classification,"Integer, Real",96M,37,9/19/2019,2019
+21,Tarvel Review Ratings,"Multivariate, Text","Classification, Clustering",Real,46K,25,12/18/2018,2018
+22,Single elder home monitoring: Gas and position,Tabular,Classification,Real,63K,16,5/27/2023,2023
+23,MaskReminder,Time-Series,Classification,N/A,6K,-,6/19/2022,2022
+24,Ozone Level Detection,"Multivariate, Sequential, Time-Series",Classification,Real,54K,73,4/20/2008,2008
+0,Heterogeneity Activity Recognition,"Multivariate, Time-Series","Classification, Clustering",Real,93M,16,10/25/2015,2015
+1,Gas Turbine CO and NOx Emission Data Set,Multivariate,"Regression, Clustering",Real,73K,11,11/28/2019,2019
+2,Occupancy Detection,"Multivariate, Time-Series",Classification,Real,56K,7,2/28/2016,2016
+3,Facebook Live Sellers in Thailand,Multivariate,Clustering,Integer,05K,12,4/21/2019,2019
+4,Condition monitoring of hydraulic systems,"Multivariate, Time-Series","Classification, Regression",Real,21K,-,4/25/2018,2018
+5,Vertebral Column,Multivariate,Classification,Real,310,6,8/8/2011,2011
+6,Dota2 Games Results,Multivariate,Classification,,94K,116,8/13/2016,2016
+7,Plants,Multivariate,Clustering,Categorical,78K,70,12/30/2008,2008
+8,Residential Building Data Set,Multivariate,Regression,Real,372,105,2/18/2018,2018
+9,Open Web Text Corpus,Text,"Classification, Regression, Clustering",N/A,01M,-,12/2/2021,2021
+10,YearPredictionMSD,Multivariate,Regression,Real,35K,90,2/6/2011,2011
+11,Cuff-Less Blood Pressure Estimation,Multivariate,"Classification, Regression",Real,12K,3,7/26/2015,2015
+12,Tamilnadu Electricity Board Hourly Readings,Multivariate,"Classification, Regression, Clustering",Real,78K,5,12/21/2013,2013
+13,Student Performance on an entrance examination,Multivariate,Classification,N/A,666,11,12/9/2018,2018
+14,Alcohol QCM Sensor Dataset,Multivariate,"Classification, Regression, Clustering",Real,125,8,7/21/2019,2019
+15,Hungarian Chickenpox Cases,Time-Series,Regression,Real,521,20,2/16/2021,2021
+16,Gas sensor array temperature modulation,"Multivariate, Time-Series","Classification, Regression",Real,1M,20,4/14/2019,2019
+17,Bag of Words,Text,Clustering,Integer,8M,-,3/11/2008,2008
+18,Parkinson Speech Dataset with Multiple Types of Sound Recordings,Multivariate,"Classification, Regression","Integer, Real",04K,26,6/11/2014,2014
+19,YouTube Spam Collection,Text,Classification,,96K,5,3/25/2017,2017
+20,Acute Inflammations,Multivariate,Classification,"Categorical, Integer",120,6,2/10/2009,2009
+21,BitcoinHeistRansomwareAddressDataset,"Multivariate, Time-Series","Classification, Clustering","Integer, Real",92M,10,6/16/2020,2020
+22,CIFAR-10,Image,Classification,N/A,60K,-,11/24/2021,2021
+23,Cervical Cancer Behavior Risk,"Multivariate, Univariate","Classification, Clustering",Integer,72,19,7/16/2019,2019
+24,Wikipedia Math Essentials,Time-Series,Regression,Real,731,-,4/19/2021,2021
+0,Facebook Comment Volume Dataset,Multivariate,Regression,"Integer, Real",95K,54,3/10/2016,2016
+1,Perfume Data,"Univariate, Domain-Theory","Classification, Clustering",Integer,560,2,7/21/2014,2014
+2,Rice Leaf Diseases,Multivariate,Classification,Integer,120,-,4/13/2019,2019
+3,Mice Protein Expression,Multivariate,"Classification, Clustering",Real,08K,82,8/3/2015,2015
+4,Paper Reviews,Text,"Classification, Regression",Integer,405,10,10/22/2017,2017
+5,Smartphone-Based Recognition of Human Activities and Postural Transitions,"Multivariate, Time-Series",Classification,Real,93K,561,7/28/2015,2015
+6,Hepatitis C Virus (HCV) for Egyptian patients,Multivariate,Classification,Real,39K,28,9/29/2019,2019
+7,Bone marrow transplant: children,Multivariate,"Classification, Regression","Integer, Real",187,39,4/20/2020,2020
+8,Skin Segmentation,Univariate,Classification,Real,06K,4,7/16/2012,2012
+9,Incident management process enriched event log,"Multivariate, Sequential","Regression, Clustering",Integer,71K,36,7/13/2019,2019
+10,Open University Learning Analytics dataset,"Multivariate, Sequential, Time-Series","Classification, Regression, Clustering",Integer,-,-,12/20/2015,2015
+11,Unmanned Aerial Vehicle (UAV) Intrusion Detection,Multivariate,Classification,Real,26K,55,4/11/2020,2020
+12,SECOM,Multivariate,"Classification, Causal-Discovery",Real,57K,591,11/18/2008,2008
+13,Codon usage,Multivariate,"Classification, Clustering",N/A,03K,69,10/2/2020,2020
+14,Dataset based on UWB for Clinical Establishments,Tabular,Other,Real,608,8,11/21/2022,2022
+15,Communities and Crime Unnormalized,Multivariate,Regression,Real,22K,147,3/1/2011,2011
+16,Las Vegas Strip,null,"Classification, Regression",Integer,504,20,7/22/2017,2017
+17,Amazon Commerce reviews set,"Multivariate, Text, Domain-Theory",Classification,Real,5K,-,6/10/2011,2011
+18,Diabetic Retinopathy Debrecen,Multivariate,Classification,"Integer, Real",15K,19,11/2/2014,2014
+19,Water Treatment Plant,Multivariate,Clustering,"Integer, Real",527,38,5/31/1993,1993
+20,WISDM Smartphone and Smartwatch Activity and Biometrics Dataset,"Multivariate, Time-Series",Classification,Real,63M,6,10/5/2019,2019
+21,OPPORTUNITY Activity Recognition,"Multivariate, Time-Series",Classification,Real,55K,242,6/8/2012,2012
+22,Audit Data,Multivariate,Classification,Real,777,18,7/13/2018,2018
+23,EMG data for gestures,Time-Series,Classification,Real,30K,6,1/6/2019,2019
+24,Parking Birmingham,"Multivariate, Univariate, Sequential, Time-Series","Classification, Regression, Clustering",Real,72K,4,1/1/2019,2019
+0,Condition Based Maintenance of Naval Propulsion Plants,Multivariate,Regression,Real,93K,16,9/10/2014,2014
+1,Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet,Multivariate,"Classification, Regression, Clustering",Integer,77,7,7/19/2017,2017
+2,CNNpred: CNN-based stock market prediction using a diverse set of variables,"Sequential, Time-Series","Classification, Regression",Real,99K,84,12/25/2019,2019
+3,Sports articles for objectivity analysis,"Multivariate, Text",Classification,Integer,1K,59,4/8/2018,2018
+4,Concrete Slump Test,Multivariate,Regression,Real,103,10,4/29/2009,2009
+5,User Knowledge Modeling,Multivariate,"Classification, Clustering",Integer,403,5,6/25/2013,2013
+6,Autistic Spectrum Disorder Screening Data for Children,Multivariate,Classification,Integer,292,21,12/23/2017,2017
+7,Gas sensor array under dynamic gas mixtures,"Multivariate, Time-Series","Classification, Regression",Real,18M,19,3/19/2015,2015
+8,Othello Domain Theory,,,N/A,-,-,1/31/1991,1991
+9,Cargo 2000 Freight Tracking and Tracing,"Multivariate, Sequential","Classification, Regression",Integer,94K,98,11/2/2016,2016
+10,Airfoil Self-Noise,Multivariate,Regression,Real,5K,6,3/3/2014,2014
+11,QSAR fish toxicity,Multivariate,Regression,Real,908,7,9/22/2019,2019
+12,NIPS Conference Papers 1987-2015,Text,Clustering,Integer,46K,-,11/22/2016,2016
+13,Turkiye Student Evaluation,Multivariate,"Classification, Clustering",,82K,33,8/31/2013,2013
+14,Steel Plates Faults,Multivariate,Classification,"Integer, Real",94K,27,10/25/2010,2010
+15,Behavior of the urban traffic of the city of Sao Paulo in Brazil,"Multivariate, Time-Series","Classification, Regression","Integer, Real",135,18,12/11/2018,2018
+16,LT-FS-ID: Intrusion detection in WSNs,Tabular,Regression,N/A,182,4,3/8/2022,2022
+17,Similarity Prediction,"Tabular, Image",Classification,N/A,200,-,10/27/2022,2022
+18,Internet Firewall Data,Multivariate,Classification,N/A,53K,12,2/3/2019,2019
+19,Yacht Hydrodynamics,Multivariate,Regression,Real,308,7,1/2/2013,2013
+20,Early biomarkers of Parkinson’s disease based on natural connected speech,Multivariate,"Classification, Regression","Integer, Real",130,65,2/14/2017,2017
+21,YouTube Multiview Video Games Dataset,"Multivariate, Text","Classification, Clustering","Integer, Real",120K,-,10/15/2013,2013
+22,Twenty Newsgroups,,,N/A,20K,-,9/8/1999,1999
+23,Leaf,Multivariate,Classification,Real,340,16,2/23/2014,2014
+24,Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014,"Sequential, Time-Series",Classification,Real,08K,-,6/5/2015,2015
+0,HTRU2,Multivariate,"Classification, Clustering",Real,9K,9,2/13/2017,2017
+1,Air quality,"Multivariate, Time-Series",Regression,Real,36K,15,7/21/2016,2016
+2,Buzz in social media,"Time-Series, Multivariate","Regression, Classification","Integer, Real",140K,77,5/26/2013,2013
+3,PPG-DaLiA,"Multivariate, Time-Series",Regression,Real,3M,11,7/29/2019,2019
+4,Greenhouse Gas Observing Network,"Multivariate, Time-Series",Regression,Real,92K,-,4/15/2015,2015
+5,EEG Steady-State Visual Evoked Potential Signals,"Multivariate, Time-Series","Classification, Regression",Integer,2K,16,7/12/2018,2018
+6,Bar Crawl: Detecting Heavy Drinking,"Multivariate, Time-Series","Classification, Regression",Real,06M,3,2/23/2020,2020
+7,Gas Sensor Array Drift Dataset,Multivariate,Classification,Real,91K,128,4/24/2012,2012
+8,Caesarian Section Classification Dataset,Univariate,Classification,Integer,80,5,11/1/2018,2018
+9,Sepsis Survival Minimal Clinical Records,Multivariate,Classification,Integer,34K,3,7/9/2023,2023
+10,Gas sensors for home activity monitoring,"Multivariate, Time-Series",Classification,Real,44K,11,7/14/2016,2016
+11,Japanese Vowels,"Multivariate, Time-Series",Classification,Real,640,12,N/A,-
+12,Bias correction of numerical prediction model temperature forecast,Multivariate,Regression,Real,75K,7,2/17/2020,2020
+13,Amphibians,Multivariate,Classification,"Integer, Real",189,23,7/16/2020,2020
+14,Gait Classification,Multivariate,Classification,Real,48,321,10/13/2020,2020
+15,2D elastodynamic metamaterials,Tabular,Regression,N/A,52K,1,11/25/2021,2021
+16,Breast Tissue,Multivariate,Classification,Real,106,10,5/9/2010,2010
+17,Wave Energy Converters,Multivariate,Regression,Real,288K,49,6/29/2019,2019
+18,Wireless Indoor Localization,Multivariate,Classification,Real,2K,7,12/3/2017,2017
+19,Deepfakes: Medical Image Tamper Detection,Multivariate,Classification,Real,20K,-,3/10/2020,2020
+20,Speaker Accent Recognition,Multivariate,Classification,Real,329,12,3/3/2020,2020
+21,Swarm Behaviour,Multivariate,Classification,Real,02K,-,6/15/2020,2020
+22,Stock keeping units,Multivariate,Clustering,"Integer, Real",28K,9,4/9/2019,2019
+23,Exasens,Multivariate,"Classification, Clustering",Integer,399,4,4/21/2020,2020
+24,Thoracic Surgery Data,Multivariate,Classification,"Integer, Real",470,16,11/12/2013,2013
+0,HTRU2,Multivariate,"Classification, Clustering",Real,285,17,6/30/1988,1988
+1,Air quality,"Multivariate, Time-Series",Regression,Real,4K,500,2/28/2008,2008
+2,Buzz in social media,"Time-Series, Multivariate","Regression, Classification","Integer, Real",18,9,10/6/2019,2019
+3,PPG-DaLiA,"Multivariate, Time-Series",Regression,Real,58K,-,2/18/2018,2018
+4,Greenhouse Gas Observing Network,"Multivariate, Time-Series",Regression,Real,463,90,4/22/1999,1999
+5,EEG Steady-State Visual Evoked Potential Signals,"Multivariate, Time-Series","Classification, Regression",Integer,59K,256,11/10/2008,2008
+6,Bar Crawl: Detecting Heavy Drinking,"Multivariate, Time-Series","Classification, Regression",Real,74K,561,3/8/2016,2016
+7,Gas Sensor Array Drift Dataset,Multivariate,Classification,Real,540,18,6/17/2013,2013
+8,Caesarian Section Classification Dataset,Univariate,Classification,Integer,85K,86,7/17/2017,2017
+9,Sepsis Survival Minimal Clinical Records,Multivariate,Classification,Integer,05K,529,9/17/2014,2014
+10,Gas sensors for home activity monitoring,"Multivariate, Time-Series",Classification,Real,237,9,3/6/2013,2013
+11,Japanese Vowels,"Multivariate, Time-Series",Classification,Real,151,5,6/6/1997,1997
+12,Bias correction of numerical prediction model temperature forecast,Multivariate,Regression,Real,94K,5,2/27/2016,2016
+13,Amphibians,Multivariate,Classification,"Integer, Real",06K,68,10/17/2014,2014
+14,Gait Classification,Multivariate,Classification,Real,13K,9,12/11/2016,2016
+15,2D elastodynamic metamaterials,Tabular,Regression,N/A,322,5,3/19/2018,2018
+16,Breast Tissue,Multivariate,Classification,Real,73K,9,3/30/2013,2013
+17,Wave Energy Converters,Multivariate,Regression,Real,48K,533,12/3/2019,2019
+18,Wireless Indoor Localization,Multivariate,Classification,Real,5M,18,2/11/2014,2014
+19,Deepfakes: Medical Image Tamper Detection,Multivariate,Classification,Real,90,-,5/4/2022,2022
+20,Speaker Accent Recognition,Multivariate,Classification,Real,14K,-,10/17/2011,2011
+21,Swarm Behaviour,Multivariate,Classification,Real,501,13,2/18/2014,2014
+22,Stock keeping units,Multivariate,Clustering,N/A,51K,1,11/26/2021,2021
+23,Exasens,Multivariate,"Classification, Clustering",Real,546,9,9/22/2019,2019
+24,Thoracic Surgery Data,Multivariate,Classification,,138,47,8/3/2012,2012
+0,Legal Case Reports,Text,Classification,,-,-,10/18/2012,2012
+1,"3D Road Network (North Jutland, Denmark)","Sequential, Text","Regression, Clustering",Real,87K,4,4/15/2013,2013
+2,Bengali Hate Speech Detection Dataset,Text,Classification,N/A,5K,-,4/23/2022,2022
+3,Simulated data for survival modelling,"Multivariate, Time-Series",Regression,"Integer, Real",120K,25,12/3/2018,2018
+4,Wheat kernels,Multivariate,Classification,Real,314,15,8/2/2020,2020
+5,Grammatical Facial Expressions,"Multivariate, Sequential","Classification, Clustering",Real,97K,100,10/5/2014,2014
+6,Breath Metabolomics,"Multivariate, Time-Series","Classification, Clustering",Real,104,-,11/7/2019,2019
+7,APS Failure at Scania Trucks,Multivariate,Classification,"Integer, Real",60K,171,12/7/2017,2017
+8,Dataset for Sensorless Drive Diagnosis,Multivariate,Classification,Real,51K,49,2/23/2015,2015
+9,Multi-view Brain Networks,Multivariate,"Classification, Clustering",Integer,70,70,8/5/2020,2020
+10,Arcene,Multivariate,Classification,Real,900,-,2/28/2008,2008
+11,2.4 GHZ Indoor Channel Measurements,Multivariate,Classification,Real,84K,5,11/29/2018,2018
+12,3W dataset,"Multivariate, Time-Series","Classification, Clustering","Integer, Real",98K,8,8/14/2019,2019
+13,Anticancer peptides,Sequential,Classification,N/A,85K,2,10/10/2019,2019
+14,A study of Asian Religious and Biblical Texts,"Multivariate, Text","Classification, Clustering",Integer,590,-,12/23/2019,2019
+15,BlogFeedback,Multivariate,Regression,"Integer, Real",02K,281,5/28/2014,2014
+16,181 early modern English plays: Transcriptions of early editions in TEI encoding,Tabular,Regression,N/A,181,-,9/27/2022,2022
+17,TV News Channel Commercial Detection Dataset,Multivariate,"Classification, Clustering",Real,69K,12,3/26/2015,2015
+18,Student Loan Relational,,,N/A,1K,-,12/31/1992,1992
+19,GPS Trajectories,Multivariate,"Classification, Regression",Real,163,15,2/28/2016,2016
+20,Volcanoes on Venus - JARtool experiment,Image,Classification,N/A,-,-,N/A,-
+21,Wall-Following Robot Navigation Data,"Multivariate, Sequential",Classification,Real,46K,24,8/3/2010,2010
+22,Intelligent Media Accelerometer and Gyroscope (IM-AccGyro) Dataset,Time-Series,Classification,Real,800,9,9/2/2020,2020
+23,Shill Bidding Dataset,Multivariate,"Classification, Clustering",N/A,32K,13,3/9/2020,2020
+24,Somerville Happiness Survey,null,Classification,Integer,143,7,5/23/2018,2018
+0,Mechanical Analysis,Multivariate,Classification,"Categorical, Integer, Real",209,8,5/31/1990,1990
+1,BuddyMove Data Set,"Multivariate, Text","Classification, Clustering",Real,249,7,6/30/2018,2018
+2,Qualitative_Bankruptcy,Multivariate,Classification,,250,7,2/8/2014,2014
+3,sEMG for Basic Hand movements,Time-Series,Classification,Real,3K,-,11/17/2014,2014
+4,Activity Recognition system based on Multisensor data fusion (AReM),"Multivariate, Sequential, Time-Series",Classification,Real,24K,6,5/17/2016,2016
+5,Carbon Nanotubes,Univariate,Regression,Real,72K,8,4/4/2018,2018
+6,SML2010,"Multivariate, Sequential, Time-Series, Text",Regression,Real,14K,24,1/8/2014,2014
+7,Crop mapping using fused optical-radar data set,"Multivariate, Time-Series",Classification,Real,83K,175,6/15/2020,2020
+8,Dynamic Features of VirusShare Executables,"Multivariate, Time-Series","Classification, Regression",Integer,89K,482,11/28/2017,2017
+9,CSM (Conventional and Social Media Movies) Dataset 2014 and 2015,Multivariate,"Classification, Regression",Integer,217,12,10/10/2017,2017
+10,URL Reputation,"Multivariate, Time-Series",Classification,"Integer, Real",4M,-,10/14/2009,2009
+11,QSAR biodegradation,Multivariate,Classification,"Integer, Real",06K,41,6/20/2013,2013
+12,Gas sensor array exposed to turbulent gas mixtures,"Multivariate, Time-Series","Classification, Regression",Real,180,-,10/9/2014,2014
+13,SkillCraft1 Master Table Dataset,Multivariate,Regression,"Integer, Real",4K,20,10/21/2013,2013
+14,Parkinson Dataset with replicated acoustic features,Multivariate,Classification,,240,46,4/9/2019,2019
+15,Chemical Composition of Ceramic Samples,Multivariate,"Classification, Clustering",Real,88,19,1/28/2019,2019
+16,Weight Lifting Exercises monitored with Inertial Measurement Units,Multivariate,Classification,Real,24K,152,11/23/2013,2013
+17,Twin gas sensor arrays,"Multivariate, Time-Series, Domain-Theory","Classification, Regression",Real,640,-,5/18/2016,2016
+18,HCC Survival,Multivariate,Classification,"Integer, Real",165,49,11/28/2017,2017
+19,Real-time Election Results: Portugal 2019,"Multivariate, Time-Series, Text",Regression,"Integer, Real",64K,29,12/4/2019,2019
+20,Localization Data for Person Activity,"Univariate, Sequential, Time-Series",Classification,Real,86K,8,11/2/2010,2010
+21,Dorothea,Multivariate,Classification,Integer,95K,-,2/28/2008,2008
+22,Gas sensor arrays in open sampling settings,"Multivariate, Time-Series",Classification,Real,18K,-,6/4/2013,2013
+23,CNAE-9,"Multivariate, Text",Classification,Integer,08K,857,8/2/2012,2012
+24,Anuran Calls (MFCCs),Multivariate,"Classification, Clustering",Real,2K,22,2/23/2017,2017
+0,Gesture Phase Segmentation,"Multivariate, Sequential, Time-Series","Classification, Clustering",Real,9K,50,6/17/2014,2014
+1,Internet Usage Data,,,"Categorical, Integer",1K,72,6/29/1999,1999
+2,Simulated Falls and Daily Living Activities Data Set,Time-Series,Classification,Integer,06K,138,6/5/2018,2018
+3,Synthetic Control Chart Time Series,Time-Series,"Classification, Clustering",Real,600,-,6/7/1999,1999
+4,Character Font Images,Multivariate,Classification,"Integer, Real",745K,411,8/13/2016,2016
+5,HEPMASS,Multivariate,Classification,Real,5M,28,1/27/2016,2016
+6,Twitter Data set for Arabic Sentiment Analysis,Text,Classification,,2K,2,4/10/2014,2014
+7,Guitar Chords finger positions,Text,Classification,N/A,63K,5,6/4/2020,2020
+8,EMG Physical Action Data Set,Time-Series,Classification,Real,10K,8,7/26/2011,2011
+9,Ultrasonic flowmeter diagnostics,Multivariate,Classification,Real,540,173,1/12/2018,2018
+10,Data for Software Engineering Teamwork Assessment in Education Setting,"Sequential, Time-Series",Classification,"Integer, Real",74,102,6/28/2017,2017
+11,Motion Capture Hand Postures,Multivariate,"Classification, Clustering",Real,1K,38,1/26/2017,2017
+12,Libras Movement,"Multivariate, Sequential","Classification, Clustering",Real,360,91,8/16/2009,2009
+13,Devanagari Handwritten Character Dataset,null,Classification,Integer,92K,-,8/31/2016,2016
+14,Facebook Large Page-Page Network,Multivariate,Classification,N/A,47K,-,7/21/2020,2020
+15,Autistic Spectrum Disorder Screening Data for Adolescent,Multivariate,Classification,Integer,104,21,12/23/2017,2017
+16,Malware static and dynamic features VxHeaven and Virus Total,Multivariate,Classification,"Integer, Real",96K,-,1/30/2019,2019
+17,Gas sensor array under flow modulation,"Multivariate, Time-Series","Classification, Regression",Real,58,-,9/9/2014,2014
+18,seismic-bumps,Multivariate,Classification,Real,58K,19,4/2/2013,2013
+19,Optical Interconnection Network,Multivariate,"Classification, Regression","Integer, Real",640,10,3/28/2018,2018
+20,Immunotherapy Dataset,Univariate,Classification,"Integer, Real",90,8,1/3/2018,2018
+21,ICU,,,Real,-,-,N/A,-
+22,User Identification From Walking Activity,"Univariate, Sequential, Time-Series","Classification, Clustering",Real,-,-,3/1/2014,2014
+23,Wikipedia Math Essentials,Time-Series,Regression,Real,731,-,4/19/2021,2021
+24,EMG dataset in Lower Limb,,,Real,132,5,2/4/2014,2014
+0,Forest type mapping,Multivariate,Classification,,326,27,5/24/2015,2015
+1,KEGG Metabolic Relation Network (Directed),"Multivariate, Univariate, Text","Classification, Regression, Clustering","Integer, Real",41K,24,11/27/2011,2011
+2,Character Trajectories,Time-Series,"Classification, Clustering",Real,86K,3,8/19/2008,2008
+3,Planning Relax,Univariate,Classification,Real,182,13,7/16/2012,2012
+4,Avila,Multivariate,Classification,Real,87K,10,6/19/2018,2018
+5,"Taxi Service Trajectory - Prediction Challenge, ECML PKDD 2015","Multivariate, Sequential, Time-Series, Domain-Theory","Clustering, Causal-Discovery",Real,71M,9,7/10/2015,2015
+6,DrivFace,Multivariate,"Classification, Regression, Clustering",Real,606,-,5/25/2016,2016
+7,OpinRank Review Dataset,,,,-,-,7/25/2011,2011
+8,SCADI,Multivariate,"Classification, Clustering",,70,206,4/13/2018,2018
+9,"Reuters RCV1 RCV2 Multilingual, Multiview Text Categorization Test collection",Multivariate,Classification,Real,74K,-,9/5/2013,2013
+10,Artificial Characters,Multivariate,Classification,"Categorical, Integer, Real",6K,7,6/30/1992,1992
+11,BLE RSSI Dataset for Indoor localization and Navigation,"Multivariate, Sequential, Time-Series","Classification, Clustering",Integer,61K,15,1/24/2018,2018
+12,wiki4HE,Multivariate,"Regression, Clustering, Causal-Discovery",,913,53,5/3/2015,2015
+13,LastFM Asia Social Network,Multivariate,Classification,N/A,62K,-,7/30/2020,2020
+14,Wisesight Sentiment Corpus,"Multivariate, Text",Classification,N/A,74K,4,8/24/2020,2020
+15,Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone,"Multivariate, Sequential, Time-Series","Classification, Regression, Clustering","Integer, Real",54K,25,1/9/2017,2017
+16,SGEMM GPU kernel performance,Multivariate,Regression,Integer,6K,18,2/26/2018,2018
+17,NoisyOffice,Multivariate,"Classification, Regression",Real,216,216,1/2/2015,2015
+18,Shoulder Implant X-Ray Manufacturer Classification,Multivariate,Classification,Real,597,1,5/19/2020,2020
+19,KASANDR,Multivariate,Causal-Discovery,Integer,76M,-,5/15/2017,2017
+20,Urban Land Cover,Multivariate,Classification,,168,148,3/26/2014,2014
+21,Improved Spiral Test Using Digitized Graphics Tablet for Monitoring Parkinson's Disease,Multivariate,"Classification, Regression, Clustering",Real,40,7,3/4/2016,2016
+22,"UrbanGB, urban road accidents coordinates labelled by the urban center",Univariate,Clustering,Real,18K,2,11/21/2019,2019
+23,Cryotherapy Dataset,Univariate,Classification,"Integer, Real",90,7,1/3/2018,2018
+24,LSVT Voice Rehabilitation,Multivariate,Classification,Real,126,309,2/18/2014,2014
+0,Refractive errors,Multivariate,Classification,Integer,467,79,4/26/2020,2020
+1,PEMS-SF,"Multivariate, Time-Series",Classification,Real,440,-,5/21/2011,2011
+2,KEGG Metabolic Reaction Network (Undirected),"Multivariate, Univariate, Text","Classification, Regression, Clustering","Integer, Real",55K,29,11/27/2011,2011
+3,Multimodal Damage Identification for Humanitarian Computing,"Multivariate, Text",Classification,Integer,88K,-,5/31/2018,2018
+4,GNFUV Unmanned Surface Vehicles Sensor Data,"Multivariate, Time-Series",Regression,Real,67K,5,5/5/2018,2018
+5,MiniBooNE particle identification,Multivariate,Classification,Real,07K,50,12/12/2010,2010
+6,Container Crane Controller Data Set,"Univariate, Domain-Theory","Classification, Regression",Real,15,3,12/31/2017,2017
+7,Online Video Characteristics and Transcoding Time Dataset,Multivariate,Regression,"Integer, Real",29K,11,5/18/2015,2015
+8,Gisette,Multivariate,Classification,Integer,5K,-,2/28/2008,2008
+9,REALDISP Activity Recognition Dataset,"Multivariate, Time-Series",Classification,Real,42K,120,7/24/2014,2014
+10,Query Analytics Workloads Dataset,Multivariate,"Regression, Clustering",Real,260K,8,6/21/2019,2019
+11,One-hundred plant species leaves data set,null,Classification,Real,6K,64,12/2/2012,2012
+12,p53 Mutants,Multivariate,Classification,Real,77K,-,2/8/2010,2010
+13,: Simulated Data set of Iraqi tourism places,Multivariate,"Classification, Clustering",N/A,232,16,1/9/2020,2020
+14,Sentence Classification,Text,Classification,Integer,-,-,11/4/2014,2014
+15,MEx,Time-Series,"Classification, Clustering",Real,26K,710,9/19/2019,2019
+16,"Hybrid Indoor Positioning Dataset from WiFi RSSI, Bluetooth and magnetometer","Multivariate, Sequential, Time-Series",Classification,Real,54K,65,12/17/2016,2016
+17,Wilt,Multivariate,Classification,,89K,6,3/12/2014,2014
+18,selfBACK,Time-Series,"Classification, Clustering",Real,14K,6,6/14/2020,2020
+19,QSAR Bioconcentration classes dataset,Multivariate,"Classification, Regression",N/A,779,14,10/10/2019,2019
+20,Horton General Hospital,"Multivariate, Time-Series",Causal-Discovery,Integer,139,6,11/12/2019,2019
+21,BLOGGER,Multivariate,Classification,,100,6,7/5/2013,2013
+22,Dataset for ADL Recognition with Wrist-worn Accelerometer,"Multivariate, Time-Series","Classification, Clustering",,-,3,2/10/2014,2014
+23,Eco-hotel,,,,401,1,7/22/2017,2017
+24,Divorce Predictors data set,"Multivariate, Univariate",Classification,Integer,170,54,7/23/2019,2019
+0,Sirtuin6 Small Molecules,Tabular,Classification,N/A,100,-,10/27/2022,2022
+1,GNFUV Unmanned Surface Vehicles Sensor Data Set 2,"Multivariate, Sequential, Time-Series",Regression,Real,19K,6,9/12/2018,2018
+2,Low Resolution Spectrometer,Multivariate,Classification,"Integer, Real",531,102,2/29/1988,1988
+3,StoneFlakes,Multivariate,"Classification, Clustering, Causal-Discovery",Real,79,8,5/19/2014,2014
+4,Person Classification Gait Data,Multivariate,Classification,Real,48,321,3/1/2020,2020
+5,Labeled Text Forum Threads Dataset,Text,Classification,Integer,200,9,4/7/2019,2019
+6,Indoor User Movement Prediction from RSS data,"Multivariate, Sequential, Time-Series",Classification,Real,2K,4,2/3/2016,2016
+7,Record Linkage Comparison Patterns,Multivariate,Classification,Real,75M,12,3/9/2011,2011
+8,Wearable Computing: Classification of Body Postures and Movements (PUC-Rio),Sequential,Classification,"Integer, Real",63K,18,4/8/2013,2013
+9,YouTube Comedy Slam Preference Data,Text,Classification,,14M,3,4/9/2012,2012
+10,QSAR oral toxicity,Multivariate,Classification,N/A,99K,-,9/30/2019,2019
+11,Sponge,Multivariate,Clustering,"Categorical, Integer",76,45,N/A,-
+12,Detect Malacious Executable(AntiVirus),Multivariate,Classification,Real,373,513,3/2/2016,2016
+13,Physical Unclonable Functions,Multivariate,Classification,Integer,6M,129,10/7/2018,2018
+14,User Profiling and Abusive Language Detection Dataset,null,Classification,N/A,92K,3,4/24/2019,2019
+15,microblogPCU,"Multivariate, Univariate, Sequential, Text","Classification, Causal-Discovery","Integer, Real",58K,20,3/16/2015,2015
+16,UJIIndoorLoc-Mag,"Multivariate, Sequential, Time-Series","Classification, Regression, Clustering","Integer, Real",40K,13,9/9/2015,2015
+17,Activities of Daily Living (ADLs) Recognition Using Binary Sensors,"Multivariate, Sequential, Time-Series","Classification, Clustering",,75K,-,10/27/2013,2013
+18,DSRC Vehicle Communications,"Sequential, Text",Clustering,Real,10K,5,12/12/2017,2017
+19,Hill-Valley,Sequential,Classification,Real,606,101,3/19/2008,2008
+20,CLINC150,Text,Classification,N/A,7K,-,5/7/2020,2020
+21,IDA2016Challenge,Multivariate,Classification,Integer,76K,171,1/16/2017,2017
+22,Repeat Consumption Matrices,Multivariate,Clustering,Real,130K,-,3/21/2018,2018
+23,Vicon Physical Action Data Set,Time-Series,Classification,Real,3K,27,7/26/2011,2011
+24,HIV-1 protease cleavage,Multivariate,Classification,Categorical,59K,1,4/24/2015,2015
+0,Relative location of CT slices on axial axis,Domain-Theory,Regression,Real,5K,386,7/6/2011,2011
+1,MicroMass,Multivariate,Classification,Real,931,-,8/11/2013,2013
+2,Dexter,Multivariate,Classification,Integer,6K,-,2/28/2008,2008
+3,Gastrointestinal Lesions in Regular Colonoscopy,Multivariate,Classification,Real,76,698,10/14/2016,2016
+4,Crowdsourced Mapping,Multivariate,Classification,,55K,29,5/24/2016,2016
+5,Kinship,Relational,Relational-Learning,Categorical,104,12,6/30/1990,1990
+6,Dodgers Loop Sensor,,,"Categorical, Integer",4K,3,11/30/2006,2006
+7,Wave Energy Converters,Multivariate,Regression,Real,288K,49,6/29/2019,2019
+8,Folio,Multivariate,"Classification, Clustering",,637,20,7/4/2015,2015
+9,Spoken Arabic Digit,"Multivariate, Time-Series",Classification,Real,8K,13,9/12/2010,2010
+10,Roman Urdu Data Set,Text,Classification,,20K,2,8/28/2018,2018
+11,Online Handwritten Assamese Characters Dataset,"Multivariate, Sequential",Classification,Integer,24K,-,3/31/2011,2011
+12,chipseq,Sequential,Classification,Integer,96K,-,2/20/2018,2018
+13,Demospongiae,Multivariate,Classification,Integer,503,-,1/20/2010,2010
+14,Stock keeping units,Multivariate,Clustering,"Integer, Real",28K,9,4/9/2019,2019
+15,GitHub MUSAE,Multivariate,Classification,N/A,7K,-,10/6/2019,2019
+16,ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines),Multivariate,Classification,Real,403,5,6/19/2013,2013
+17,Exasens,Multivariate,"Classification, Clustering",Integer,399,4,4/21/2020,2020
+18,Bach Choral Harmony,Sequential,Classification,,67K,17,5/19/2014,2014
+19,QSAR fish bioconcentration factor (BCF),Multivariate,Regression,"Integer, Real",06K,7,11/26/2019,2019
+20,Turkish Spam V01,Text,Classification,N/A,826,2,4/6/2019,2019
+21,UJI Pen Characters,"Multivariate, Sequential",Classification,Integer,36K,-,5/31/2007,2007
+22,Reuters Transcribed Subset,Text,Classification,,200,-,3/7/2008,2008
+23,Quadruped Mammals,"Multivariate, Data-Generator",Classification,Real,-,72,8/24/1992,1992
+24,Activity Recognition from Single Chest-Mounted Accelerometer,"Univariate, Sequential, Time-Series","Classification, Clustering",Real,-,-,3/1/2014,2014
+0,SIFT10M,Multivariate,Causal-Discovery,Integer,16M,128,2/22/2016,2016
+1,Quality Assessment of Digital Colposcopies,Multivariate,Classification,Real,287,69,3/7/2017,2017
+2,CalIt2 Building People Counts,,,"Categorical, Integer",08K,4,11/30/2006,2006
+3,Predict keywords activities in a online social media,,,"Integer, Real",51,35,12/11/2013,2013
+4,MoCap Hand Postures,Multivariate,"Classification, Clustering","Integer, Real",1K,38,11/21/2016,2016
+5,AAAI 2014 Accepted Papers,Multivariate,Clustering,,399,6,7/29/2014,2014
+6,Youtube cookery channels viewers comments in Hinglish,"Multivariate, Text",Classification,N/A,8K,3,7/2/2019,2019
+7,Victorian Era Authorship Attribution,Text,Classification,,6K,-,5/30/2018,2018
+8,OCT data & Color Fundus Images of Left & Right Eyes,Multivariate,Classification,Real,50,2,10/31/2016,2016
+9,Nomao,Univariate,Classification,Real,47K,120,7/3/2012,2012
+10,Z-Alizadeh Sani,null,Classification,"Integer, Real",303,56,11/16/2017,2017
+11,Mesothelioma's disease data set,Multivariate,Classification,Real,324,34,1/10/2016,2016
+12,Meta-data,Multivariate,Classification,"Categorical, Integer, Real",528,22,2/29/1996,1996
+13,LastFM Asia Social Network,Multivariate,Classification,N/A,62K,-,8/21/2020,2020
+14,Reuter_50_50,"Multivariate, Text, Domain-Theory","Classification, Clustering",Real,5K,-,9/7/2011,2011
+15,Miskolc IIS Hybrid IPS,Text,"Classification, Clustering, Causal-Discovery",Integer,54K,67,7/3/2016,2016
+16,First-order theorem proving,Multivariate,Classification,Real,12K,51,4/16/2013,2013
+17,Shoulder Implant Manufacture Classification,Multivariate,Classification,N/A,597,1,5/14/2020,2020
+18,ICMLA 2014 Accepted Papers Data Set,Multivariate,"Classification, Clustering",,105,5,2/18/2018,2018
+19,NYSK,"Multivariate, Sequential, Text",Clustering,,42K,7,10/10/2013,2013
+20,Russian Corpus of Biographical Texts,Text,Classification,N/A,200,2,6/2/2020,2020
+21,Pseudo Periodic Synthetic Time Series,,,N/A,100K,-,2/7/1999,1999
+22,QSAR androgen receptor,Multivariate,Classification,N/A,69K,-,9/30/2019,2019
+23,AAAI 2013 Accepted Papers,Multivariate,Clustering,,150,5,7/29/2014,2014
+24,DeliciousMIL: A Data Set for Multi-Label Multi-Instance Learning with Instance Labels,Text,Classification,Integer,23K,-,10/26/2016,2016
+0,Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network,Text,Classification,Integer,08K,22,8/27/2017,2017
+1,Coil 1999 Competition Data,,,"Categorical, Real",340,17,9/8/1999,1999
+2,Connectionist Bench (Nettalk Corpus),,,Categorical,01K,4,10/10/1954,1954
+3,Newspaper and magazine images segmentation dataset,null,Classification,,101,-,7/14/2014,2014
+4,Nasarian CAD Dataset,Multivariate,Classification,N/A,150,52,2/27/2020,2020
+5,BLE RSSI dataset for Indoor localization,"Sequential, Time-Series",Classification,Integer,57K,5,5/28/2019,2019
+6,KDC-4007 dataset Collection,"Multivariate, Text","Classification, Regression",Integer,01K,-,4/26/2017,2017
+7,PubChem Bioassay Data,Multivariate,Classification,"Integer, Real",-,-,3/28/2011,2011
+8,Abscisic Acid Signaling Network,Multivariate,Causal-Discovery,Integer,300,43,4/2/2008,2008
+9,DBWorld e-mails,Text,Classification,,64,-,11/5/2011,2011
+10,extention of Z-Alizadeh sani dataset,null,Classification,"Integer, Real",303,59,11/16/2017,2017
+11,Firm-Teacher_Clave-Direction_Classification,Multivariate,Classification,,8K,20,4/23/2015,2015
+12,Discrete Tone Image Dataset,Multivariate,Classification,,71,11,1/19/2018,2018
+13,Shoulder Implant X-Ray Manufacturer Classification,Multivariate,Classification,Real,597,1,5/19/2020,2020
+14,Badges,"Univariate, Text",Classification,N/A,294,1,8/31/1994,1994
+15,MEU-Mobile KSD,Multivariate,Classification,"Integer, Real",86K,71,5/13/2016,2016
+16,Northix,"Multivariate, Univariate, Text",Classification,"Integer, Real",115,200,8/14/2012,2012
+17,AutoUniv,Multivariate,Classification,"Categorical, Integer, Real",-,-,11/2/2010,2010
+18,Mturk User-Perceived Clusters over Images,"Multivariate, Text",Clustering,Integer,180,500,11/1/2016,2016
+19,"USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder Problem: Pat",Domain-Theory,Classification,Integer,306,5,10/12/2013,2013
+20,TTC-3600: Benchmark dataset for Turkish text categorization,Text,"Classification, Clustering",Integer,6K,-,2/7/2017,2017
+21,BAUM-1,Time-Series,Classification,,18K,-,11/8/2018,2018
+22,Opinion Corpus for Lebanese Arabic Reviews (OCLAR),Text,Classification,Integer,92K,-,6/16/2019,2019
+23,Document Understanding,,,N/A,-,-,10/31/1994,1994
+24,UbiqLog (smartphone lifelogging),Multivariate,Causal-Discovery,,78M,-,6/15/2016,2016
+0,IIWA14-R820-Gazebo-Dataset-10Trajectories,null,Regression,Integer,-,-,6/8/2020,2020
+1,M. Tuberculosis Genes,,,N/A,-,-,7/13/2001,2001
+2,BAUM-2,Time-Series,Classification,,05K,-,11/8/2018,2018
+3,MSNBC.com Anonymous Web Data,,,Categorical,82K,-,N/A,-
+4,Function Finding,null,Function-Learning,Real,352,-,8/31/1990,1990
+5,Qualitative Structure Activity Relationships,,,N/A,-,-,N/A,-
+6,UJI Pen Characters (Version 2),"Multivariate, Sequential",Classification,Integer,64K,-,1/21/2009,2009
+7,NSF Research Award Abstracts 1990-2003,,,N/A,129K,-,11/17/2003,2003
+8,Pioneer-1 Mobile Robot Data,,,"Categorical, Real",-,-,1/27/1999,1999
+9,PANDOR,Multivariate,Recommendation,Categorical,-,-,10/1/2018,2018
+10,Prodigy,,,N/A,-,-,N/A,-
+11,Logic Theorist,,,N/A,-,-,N/A,-
+12,University of Tehran Question Dataset 2016 (UTQD.2016),Text,Classification,,18K,3,9/26/2017,2017
+13,Higher Education Students Performance Evaluation,Multivariate,Classification,Integer,145,33,8/14/2023,2023
+14,QtyT40I10D100K,Sequential,Other,Integer,96M,4,10/20/2012,2012
+15,Undocumented,,,N/A,-,-,N/A,-
+16,Opinosis Opinion / Review,Text,Classification,,51,-,7/5/2010,2010
+17,chestnut - LARVIC,Multivariate,"Classification, Clustering",,45K,3,5/29/2017,2017
+18,Moral Reasoner,,,N/A,202,-,5/31/1994,1994
+19,PMU-UD,Univariate,Classification,,18K,9,8/4/2018,2018
+20,Sattriya_Dance_Single_Hand_Gestures Dataset,Multivariate,Classification,N/A,45K,-,7/21/2019,2019
+21,DGP2 - The Second Data Generation Program,,,Real,-,-,N/A,-
+22,EBL Domain Theories,,,N/A,-,-,N/A,-
+23,Room Occupancy Estimation,"Multivariate, Time-Series",Classification,Real,13K,16,8/15/2023,2023
+24,Image Recognition Task Execution Times in Mobile Edge Computing,"Sequential, Time-Series",Regression,Real,4K,2,8/14/2023,2023
+0,Risk Factor prediction of Chronic Kidney Disease,Multivariate,"Classification, Regression",Real,202,29,8/14/2023,2023
+1,TUANDROMD (Tezpur University Android Malware Dataset),Multivariate,Classification,Integer,46K,241,8/14/2023,2023
+2,Rocket League Skillshots,"Tabular, Time-Series",Classification,Real,297,-,8/14/2023,2023
+3,Maternal Health Risk,Multivariate,Classification,"Real, Integer",01K,6,8/14/2023,2023
+4,Power consumption of Tetouan city,"Multivariate, Time-Series",Regression,"Real, Integer",42K,9,8/13/2023,2023
+5,Secondary Mushroom Dataset,Tabular,Classification,Real,07K,20,8/13/2023,2023
+6,Roman Urdu Sentiment Analysis Dataset (RUSAD),Text,Classification,Categorical,11K,2,8/14/2023,2023
+7,Accelerometer,Multivariate,"Classification, Regression","Real, Integer",153K,5,8/13/2023,2023
+8,REJAFADA,Multivariate,Classification,Integer,2K,-,8/14/2023,2023
+9,Non verbal tourists data,Multivariate,"Classification, Clustering","Real, Integer",73,22,8/13/2023,2023
+10,Pedal Me Bicycle Deliveries,Time-Series,Regression,Real,36,15,8/13/2023,2023
+11,Steel Industry Energy Consumption,Multivariate,Regression,"Real, Categorical",04K,11,8/13/2023,2023
+12,TamilSentiMix,"Multivariate, Text",Classification,Categorical,74K,-,8/13/2023,2023
+13,Influenza outbreak event prediction via Twitter,Multivariate,Classification,"Real, Integer",84K,523,8/14/2023,2023
+14,Average Localization Error (ALE) in sensor node localization process in WSNs,Multivariate,Regression,Real,107,6,8/13/2023,2023
+15,Turkish Music Emotion,Multivariate,Classification,"Real, Integer",400,50,8/14/2023,2023
+16,Gender Gap in Spanish WP,Multivariate,Classification,"Real, Integer",75K,21,8/13/2023,2023
+17,Raisin,Multivariate,Classification,"Real, Integer",900,8,8/13/2023,2023
